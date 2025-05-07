@@ -1,0 +1,86 @@
+---
+manufacturer: Calix
+model: 844E-1 GigaCenter
+slug: 844e-1
+description: ''
+default_platform: null
+part_number: 100-04015
+u_height: 0.0
+is_full_depth: false
+subdevice_role: null
+airflow: passive
+weight: null
+weight_unit: null
+comments: ''
+power-ports:
+- name: Power Port
+  type: other
+  maximum_draw: null
+  allocated_draw: null
+  label: Power
+  description: ''
+interfaces:
+- name: ETH-WAN
+  type: 1000base-t
+  label: WAN
+  description: ''
+- name: ETH-LAN1
+  type: 1000base-t
+  label: LAN1
+  description: ''
+- name: ETH-LAN2
+  type: 1000base-t
+  label: LAN2
+  description: ''
+- name: ETH-LAN3
+  type: 1000base-t
+  label: LAN3
+  description: ''
+- name: ETH-LAN4
+  type: 1000base-t
+  label: LAN4
+  description: ''
+- name: WiFi-2.4GHz
+  type: ieee802.11n
+  label: WiFi 2.4GHz
+  description: ''
+- name: WiFi-5GHz
+  type: ieee802.11ac
+  label: WiFi 5GHz
+  description: ''
+- name: USB
+  type: usb
+  label: USB
+  description: ''
+- name: Phone1
+  type: rj11
+  label: Phone1
+  description: ''
+- name: Phone2
+  type: rj11
+  label: Phone2
+  description: ''
+- name: Coax
+  type: moca
+  label: Coax
+  description: ''
+- name: Reset
+  type: other
+  label: Reset
+  description: ''
+- name: WPS
+  type: other
+  label: WPS
+  description: ''
+- name: LED
+  type: other
+  label: LED
+  description: ''
+- name: Button
+  type: other
+  label: Button
+  description: ''
+- name: Power
+  type: other
+  label: Power
+  description: ''
