@@ -1,0 +1,61 @@
+manufacturer: Ceragon
+model: FibreAir IP-10
+slug: fibreair-ip-10
+description: ''
+default_platform: null
+part_number: ''
+u_height: 1.0
+is_full_depth: false
+subdevice_role: null
+airflow: side-to-rear
+weight: null
+weight_unit: null
+comments: "Datasheet:\r\nhttps://www.tempestns.com/wp-content/uploads/2020/06/Ceragon-IP10-data.pdf"
+console-ports:
+  - name: 16 x E1/T1
+    type: other
+    label: E1/T1 1-16
+    description: MDR69 Port
+  - name: Craft Terminal
+    type: de-9
+    label: Terminal
+    description: ''
+  - name: Engineering order-wire
+    type: other
+    label: EOW
+    description: ''
+  - name: External Alarms
+    type: de-9
+    label: Alarms I/O
+    description: ''
+  - name: PROT
+    type: rj-45
+    label: PROT
+    description: ''
+  - name: V.11/RS-232 User Channel 1
+    type: rj-45
+    label: UC1
+    description: ''
+  - name: V.11/RS-232 User Channel 2
+    type: rj-45
+    label: UC2
+    description: ''
+power-ports:
+  - name: 48VDC In
+    type: dc-terminal
+    maximum_draw: null
+    allocated_draw: null
+    label: 48VDC
+    description: ''
+interfaces:
+  - name: Port 1
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: '1'
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  # ...existing interfaces...

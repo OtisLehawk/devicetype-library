@@ -1,0 +1,26 @@
+manufacturer: Cyan/Ciena
+model: LGX-3
+slug: lgx-3
+description: ''
+default_platform: null
+part_number: ''
+u_height: 1.0
+is_full_depth: false
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: null
+comments: ''
+module-bays:
+  - name: Chassis Slot 1
+    label: '1'
+    position: Slot 1
+    description: ''
+  - name: Chassis Slot 2
+    label: '2'
+    position: Slot 2
+    description: ''
+  - name: Chassis Slot 3
+    label: '3'
+    position: Slot 3
+    description: ''

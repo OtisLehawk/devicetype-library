@@ -1,0 +1,44 @@
+manufacturer: Cambium
+model: UGPS
+slug: ugps
+description: ''
+default_platform: null
+part_number: 1096J
+u_height: 0.0
+is_full_depth: false
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: null
+comments: ''
+interfaces:
+  - name: EXT. Power
+    type: other
+    enabled: true
+    mgmt_only: false
+    label: ''
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: Timing Port 1
+    type: other
+    enabled: true
+    mgmt_only: false
+    label: ''
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: Timing Port 2
+    type: other
+    enabled: true
+    mgmt_only: false
+    label: ''
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null

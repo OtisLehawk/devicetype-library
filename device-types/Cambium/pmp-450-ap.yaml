@@ -1,0 +1,44 @@
+manufacturer: Cambium
+model: PMP 450 2.4 Ghz AP
+slug: pmp-450-ap
+description: 2.4 Ghz AP
+default_platform: null
+part_number: C024045A001A
+u_height: 0.0
+is_full_depth: false
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: null
+comments: ''
+interfaces:
+  - name: Ethernet 24 to 30V 750mA
+    type: 100base-tx
+    enabled: true
+    mgmt_only: false
+    label: LAN/PoE
+    description: ''
+    bridge: null
+    poe_mode: pd
+    poe_type: null
+    rf_role: null
+  - name: Reset
+    type: other
+    enabled: true
+    mgmt_only: false
+    label: Reset
+    description: RJ-11 used to factory default radio
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: Wireless
+    type: other-wireless
+    enabled: true
+    mgmt_only: false
+    label: ''
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null

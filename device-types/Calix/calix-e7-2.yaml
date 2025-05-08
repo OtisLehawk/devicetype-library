@@ -1,0 +1,55 @@
+manufacturer: Calix
+model: E7-2
+slug: calix-e7-2
+description: ''
+default_platform: null
+part_number: 000-00372
+u_height: 1.0
+is_full_depth: false
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: null
+comments: ''
+power-ports:
+  - name: DC Power A
+    type: dc-terminal
+    maximum_draw: null
+    allocated_draw: null
+    label: DC Power A
+    description: ''
+  - name: DC Power B
+    type: dc-terminal
+    maximum_draw: null
+    allocated_draw: null
+    label: DC Power B
+    description: ''
+interfaces:
+  - name: Managment 1
+    type: 1000base-t
+    enabled: true
+    mgmt_only: true
+    label: MGT - 1
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  # ...existing interfaces...
+rear-ports:
+  - name: Port 1
+    type: other
+    color: ''
+    positions: 4
+    label: P1 Slot 1
+    description: ''
+  # ...existing rear ports...
+module-bays:
+  - name: slot 1
+    label: '-1'
+    position: '1'
+    description: ''
+  - name: slot 2
+    label: '-2'
+    position: '2'
+    description: ''

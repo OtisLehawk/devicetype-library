@@ -1,0 +1,50 @@
+manufacturer: Cambium
+model: CMM4
+slug: cmm4
+description: ''
+default_platform: null
+part_number: ''
+u_height: 1.0
+is_full_depth: false
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: null
+comments: ''
+power-ports:
+  - name: 29V Power 1
+    type: dc-terminal
+    maximum_draw: null
+    allocated_draw: null
+    label: 29V 10.5A
+    description: ''
+  - name: 29V Power 2
+    type: dc-terminal
+    maximum_draw: null
+    allocated_draw: null
+    label: 29V 10.6A
+    description: ''
+  - name: 56V Power 1
+    type: dc-terminal
+    maximum_draw: null
+    allocated_draw: null
+    label: 56V 10.6A
+    description: ''
+  - name: 56V Power 2
+    type: dc-terminal
+    maximum_draw: null
+    allocated_draw: null
+    label: 56V 10.6A
+    description: ''
+interfaces:
+  - name: Controller Port
+    type: 1000base-t
+    enabled: true
+    mgmt_only: true
+    label: CMM CONTRROLLER
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  # ...existing interfaces...

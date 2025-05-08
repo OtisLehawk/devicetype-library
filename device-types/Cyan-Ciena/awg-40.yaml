@@ -1,0 +1,35 @@
+manufacturer: Cyan/Ciena
+model: AWG-40
+slug: awg-40
+description: ''
+default_platform: null
+part_number: ''
+u_height: 2.0
+is_full_depth: false
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: null
+comments: ''
+interfaces:
+  - name: COM
+    type: other
+    enabled: true
+    mgmt_only: false
+    label: COM
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: Wave1
+    type: other
+    enabled: true
+    mgmt_only: false
+    label: '21'
+    description: '1560.61'
+    bridge: null
+    poe_mode: ''
+    poe_type: ''
+    rf_role: ''
+  # ...existing interfaces...

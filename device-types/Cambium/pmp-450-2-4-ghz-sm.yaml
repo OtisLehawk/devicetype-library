@@ -1,0 +1,44 @@
+manufacturer: Cambium
+model: PMP 2.4 GHz 450 SM
+slug: pmp-450-2-4-ghz-sm
+description: ''
+default_platform: null
+part_number: C024045C003A
+u_height: 0.0
+is_full_depth: false
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: null
+comments: ''
+interfaces:
+  - name: AUX
+    type: other
+    enabled: true
+    mgmt_only: false
+    label: RJ-11
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: LAN
+    type: 100base-tx
+    enabled: true
+    mgmt_only: false
+    label: ETHERNET
+    description: 24-30 Volt POE
+    bridge: null
+    poe_mode: pd
+    poe_type: null
+    rf_role: null
+  - name: Wireless
+    type: other-wireless
+    enabled: true
+    mgmt_only: false
+    label: ''
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
