@@ -1,0 +1,69 @@
+manufacturer: Imagestream
+model: Envoy EV1000 V4
+slug: envoy-ev1000-v4
+description: Imagestream Envoy
+default_platform: null
+part_number: '24802966'
+u_height: 0.0
+is_full_depth: true
+subdevice_role: null
+airflow: passive
+weight: null
+weight_unit: null
+comments: ''
+console-ports:
+  - name: Console
+    type: de-9
+    label: Console
+    description: ''
+interfaces:
+  - name: ETH 0
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: Eth 0
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: ETH 1
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: Eth 1
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: ETH 2
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: Eth 2
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: USB 1
+    type: other
+    enabled: true
+    mgmt_only: false
+    label: ''
+    description: USB 3 A Pors
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: USB 2
+    type: other
+    enabled: true
+    mgmt_only: false
+    label: ''
+    description: USB 3 A Pors
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null

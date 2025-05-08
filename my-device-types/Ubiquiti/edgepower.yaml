@@ -1,0 +1,40 @@
+manufacturer: Ubiquiti
+model: EdgePower
+slug: edgepower
+description: ''
+default_platform: null
+part_number: EP-54V-150W
+u_height: 1.0
+is_full_depth: false
+subdevice_role: parent
+airflow: mixed
+weight: 5.95
+weight_unit: lb
+comments: https://dl.ubnt.com/ds/EdgePower
+power-outlets:
+  - name: DC Output
+    type: dc-terminal
+    power_port: null
+    feed_leg: null
+    label: ''
+    description: ''
+interfaces:
+  - name: Ethernet
+    type: 100base-tx
+    enabled: true
+    mgmt_only: false
+    label: ''
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+module-bays:
+  - name: PSU 1
+    label: PSU 1
+    position: ''
+    description: ''
+  - name: PSU 2
+    label: PSU 2
+    position: ''
+    description: ''

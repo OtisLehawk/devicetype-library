@@ -1,0 +1,34 @@
+manufacturer: Cambium
+model: PMP 100 2.4 MHz AP
+slug: pmp-100-2-4-mhz-ap
+description: ''
+default_platform: null
+part_number: ''
+u_height: 0.0
+is_full_depth: false
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: null
+comments: ''
+interfaces:
+  - name: LAN
+    type: 100base-tx
+    enabled: true
+    mgmt_only: false
+    label: ''
+    description: ''
+    bridge: null
+    poe_mode: pd
+    poe_type: null
+    rf_role: null
+  - name: Wireless
+    type: other-wireless
+    enabled: true
+    mgmt_only: false
+    label: ''
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null

@@ -1,0 +1,91 @@
+manufacturer: Mikrotik
+model: hAP ax2
+slug: mikrotik-c52ig-5haxd2haxd-tc
+description: ''
+default_platform: null
+part_number: C52iG-5HaxD2HaxD-TC
+u_height: 0.0
+is_full_depth: false
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: null
+comments: ''
+power-ports:
+  - name: DC-in
+    type: dc-terminal
+    maximum_draw: 27
+    allocated_draw: null
+    label: ''
+    description: ''
+interfaces:
+  - name: ether1
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: ''
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: ether2
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: ''
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: ether3
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: ''
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: ether4
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: ''
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: ether5
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: ''
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: wifi1
+    type: ieee802.11ax
+    enabled: true
+    mgmt_only: false
+    label: ''
+    description: 5ghz
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: wifi2
+    type: ieee802.11ax
+    enabled: true
+    mgmt_only: false
+    label: ''
+    description: 2.4ghz
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null

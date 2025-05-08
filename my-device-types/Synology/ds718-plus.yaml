@@ -1,0 +1,90 @@
+manufacturer: Synology
+model: DS718+
+slug: ds718-plus
+description: ''
+default_platform: null
+part_number: DS718+
+u_height: 0.0
+is_full_depth: false
+subdevice_role: parent
+airflow: front-to-rear
+weight: null
+weight_unit: null
+comments: '[Synology DS2419+ DataSheet](https://global.download.synology.com/download/Document/Hardware/DataSheet/DiskStation/18-year/DS718+/enu/Synology_DS718_Plus_Data_Sheet_enu.pdf)'
+power-ports:
+  - name: PSU 1
+    type: iec-60320-c14
+    maximum_draw: null
+    allocated_draw: null
+    label: ''
+    description: ''
+interfaces:
+  - name: eSATA
+    type: other
+    enabled: true
+    mgmt_only: false
+    label: ''
+    description: eSATA
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: LAN 1
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: ''
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: LAN 2
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: ''
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: USB 1
+    type: other
+    enabled: true
+    mgmt_only: false
+    label: USB Front
+    description: USB 3.0
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: USB 2
+    type: other
+    enabled: true
+    mgmt_only: false
+    label: USB Back L
+    description: USB 3.0
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: USB 3
+    type: other
+    enabled: true
+    mgmt_only: false
+    label: USB Back R
+    description: USB 3.0
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+module-bays:
+  - name: Drive Slot 1
+    label: ''
+    position: ''
+    description: ''
+  - name: Drive Slot 2
+    label: ''
+    position: ''
+    description: ''

@@ -1,0 +1,44 @@
+manufacturer: Cambium
+model: PMP 450i 900 MHz SM
+slug: pmp-450i-900-mhz-sm
+description: 900 MHz SM
+default_platform: null
+part_number: C009045C001A
+u_height: 0.0
+is_full_depth: false
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: null
+comments: ''
+interfaces:
+  - name: AUX
+    type: other
+    enabled: true
+    mgmt_only: false
+    label: RJ-11 Reset
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: POE
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: Ethernet 24 to 30V
+    description: 450mA
+    bridge: null
+    poe_mode: pd
+    poe_type: null
+    rf_role: null
+  - name: Wireless
+    type: other-wireless
+    enabled: true
+    mgmt_only: false
+    label: ''
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null

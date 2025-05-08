@@ -1,0 +1,24 @@
+manufacturer: Asus
+model: VivoMini
+slug: vivomini
+description: ''
+default_platform: null
+part_number: UN65U
+u_height: 0.0
+is_full_depth: false
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: null
+comments: ''
+interfaces:
+  - name: LAN
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: ''
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null

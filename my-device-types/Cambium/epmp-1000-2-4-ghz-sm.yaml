@@ -1,0 +1,44 @@
+manufacturer: Cambium
+model: ePMP 1000 2.4 GHz SM
+slug: epmp-1000-2-4-ghz-sm
+description: 2.4 Ghz radio
+default_platform: null
+part_number: C024900C031A
+u_height: 0.0
+is_full_depth: false
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: null
+comments: ''
+interfaces:
+  - name: Auxiliary 10/100 Mbit Ethernet
+    type: 100base-tx
+    enabled: true
+    mgmt_only: false
+    label: AUX
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: Main 10/100 Mbit Ethernet
+    type: 100base-tx
+    enabled: true
+    mgmt_only: false
+    label: MAIN
+    description: ''
+    bridge: null
+    poe_mode: pd
+    poe_type: null
+    rf_role: null
+  - name: Wireless
+    type: other-wireless
+    enabled: true
+    mgmt_only: false
+    label: ''
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null

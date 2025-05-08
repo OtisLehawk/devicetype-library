@@ -1,0 +1,111 @@
+manufacturer: Ubiquiti
+model: UISP Switch
+slug: uisp-s
+description: ''
+default_platform: null
+part_number: UISP-S
+u_height: 0.0
+is_full_depth: false
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: null
+comments: ''
+power-ports:
+  - name: Power Port
+    type: other
+    maximum_draw: null
+    allocated_draw: null
+    label: Input 27VDC 4.4A
+    description: ''
+interfaces:
+  - name: Port 1
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: '1'
+    description: ''
+    bridge: null
+    poe_mode: pse
+    poe_type: passive-24v-4pair
+    rf_role: null
+  - name: Port 2
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: '2'
+    description: ''
+    bridge: null
+    poe_mode: pse
+    poe_type: passive-24v-4pair
+    rf_role: null
+  - name: Port 3
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: '3'
+    description: ''
+    bridge: null
+    poe_mode: pse
+    poe_type: passive-24v-4pair
+    rf_role: null
+  - name: Port 4
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: '4'
+    description: ''
+    bridge: null
+    poe_mode: pse
+    poe_type: passive-24v-4pair
+    rf_role: null
+  - name: Port 5
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: '5'
+    description: ''
+    bridge: null
+    poe_mode: pse
+    poe_type: passive-24v-4pair
+    rf_role: null
+  - name: Port 6
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: '6'
+    description: ''
+    bridge: null
+    poe_mode: pse
+    poe_type: passive-24v-4pair
+    rf_role: null
+  - name: Port 7
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: '7'
+    description: ''
+    bridge: null
+    poe_mode: pse
+    poe_type: passive-24v-4pair
+    rf_role: null
+  - name: Port 8
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: '8'
+    description: ''
+    bridge: null
+    poe_mode: pse
+    poe_type: passive-24v-4pair
+    rf_role: null
+  - name: Port 9 (1G SFP)
+    type: 1000base-x-sfp
+    enabled: true
+    mgmt_only: false
+    label: '9'
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null

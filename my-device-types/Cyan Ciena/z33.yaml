@@ -1,0 +1,38 @@
+manufacturer: Cyan/Ciena
+model: Z33
+slug: z33
+description: ''
+default_platform: null
+part_number: ''
+u_height: 5.0
+is_full_depth: false
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: null
+comments: ''
+power-ports:
+  - name: Power
+    type: dc-terminal
+    maximum_draw: null
+    allocated_draw: null
+    label: ''
+    description: -48V
+interfaces:
+  - name: ENV Alarms
+    type: other
+    enabled: true
+    mgmt_only: false
+    label: ENV Alarms
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  # ...existing interfaces...
+module-bays:
+  - name: Front Linecard 1A
+    label: Front Linecard 1A
+    position: Linecard 1A
+    description: ''
+  # ...existing module bays...

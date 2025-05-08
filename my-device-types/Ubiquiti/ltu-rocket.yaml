@@ -1,0 +1,34 @@
+manufacturer: Ubiquiti
+model: LTU Rocket
+slug: ltu-rocket
+description: 5 Ghz AP
+default_platform: null
+part_number: LTU-Rocket-US
+u_height: 0.0
+is_full_depth: false
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: null
+comments: ''
+interfaces:
+  - name: LAN
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: LAN
+    description: ''
+    bridge: null
+    poe_mode: pd
+    poe_type: passive-24v-4pair
+    rf_role: null
+  - name: Wireless
+    type: other-wireless
+    enabled: true
+    mgmt_only: false
+    label: ''
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null

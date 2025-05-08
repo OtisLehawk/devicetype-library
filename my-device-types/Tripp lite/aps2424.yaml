@@ -1,7 +1,6 @@
----
-manufacturer: Ambery
-model: IP P2
-slug: ip-p2
+manufacturer: Tripp lite
+model: APS2424
+slug: aps2424
 description: ''
 default_platform: null
 part_number: ''
@@ -13,22 +12,16 @@ weight: null
 weight_unit: null
 comments: ''
 power-ports:
-  - name: Power Cord
+  - name: Power INput
     type: nema-5-15p
     maximum_draw: null
     allocated_draw: null
     label: ''
     description: ''
 power-outlets:
-  - name: Power 1
+  - name: Power Output
     type: nema-5-15r
     power_port: null
     feed_leg: null
-    label: P1
-    description: ''
-  - name: Power 2
-    type: nema-5-15r
-    power_port: null
-    feed_leg: null
-    label: P2
+    label: ''
     description: ''

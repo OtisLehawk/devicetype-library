@@ -1,0 +1,46 @@
+manufacturer: Ubiquiti
+model: airFiber 5XHD
+slug: airfiber-5xhd
+description: ''
+default_platform: null
+part_number: AF-5XHD
+u_height: 0.0
+is_full_depth: false
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: null
+comments: "ath0 is setup to use ieee802.11ax as LTE currently doesn't allow wireless\r\n\
+  \  parameters to be specified despite the fact that the airFiber is a LTE-U\r\n\
+  \  device."
+interfaces:
+  - name: ath0
+    type: ieee802.11ax
+    enabled: true
+    mgmt_only: false
+    label: Wireless
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: Data
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: DATA
+    description: ''
+    bridge: null
+    poe_mode: pd
+    poe_type: passive-24v-4pair
+    rf_role: null
+  - name: Managment
+    type: 1000base-t
+    enabled: true
+    mgmt_only: true
+    label: MGMT
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null

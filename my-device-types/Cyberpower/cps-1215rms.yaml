@@ -1,11 +1,10 @@
----
-manufacturer: Ambery
-model: IP P2
-slug: ip-p2
-description: ''
+manufacturer: Cyberpower
+model: CPS-1215RMS
+slug: cps-1215rms
+description: Relocatable Power Strip
 default_platform: null
 part_number: ''
-u_height: 0.0
+u_height: 1.0
 is_full_depth: false
 subdevice_role: null
 airflow: null
@@ -14,21 +13,16 @@ weight_unit: null
 comments: ''
 power-ports:
   - name: Power Cord
-    type: nema-5-15p
+    type: nema-5-50p
     maximum_draw: null
     allocated_draw: null
     label: ''
     description: ''
 power-outlets:
-  - name: Power 1
-    type: nema-5-15r
+  - name: Power Port 1
+    type: nema-5-50r
     power_port: null
     feed_leg: null
-    label: P1
+    label: ''
     description: ''
-  - name: Power 2
-    type: nema-5-15r
-    power_port: null
-    feed_leg: null
-    label: P2
-    description: ''
+  # ...existing power outlets...

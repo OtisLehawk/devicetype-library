@@ -1,0 +1,34 @@
+manufacturer: PolyPhaser
+model: Grounding Block
+slug: grounding-block
+description: Netguard by PolyPhaser Data Network Protector
+default_platform: null
+part_number: NX4-60-IG
+u_height: 0.0
+is_full_depth: false
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: null
+comments: https://comm-omni.com/polyweb/nx/NX4-60-IG.pdf
+interfaces:
+  - name: Protected
+    type: 100base-tx
+    enabled: true
+    mgmt_only: false
+    label: Protected
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: Surge
+    type: 100base-tx
+    enabled: true
+    mgmt_only: false
+    label: Surge
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null

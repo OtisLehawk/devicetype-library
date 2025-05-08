@@ -1,0 +1,13 @@
+manufacturer: Unknown
+model: Provider Fiber Patch Panels
+slug: unknown
+description: Fiber patch panels used by another Provider
+default_platform: null
+part_number: ''
+u_height: 1.0
+is_full_depth: false
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: null
+comments: ''

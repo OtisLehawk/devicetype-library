@@ -1,0 +1,19 @@
+manufacturer: Cyan/Ciena
+model: Z77
+slug: z77
+description: ''
+default_platform: null
+part_number: ''
+u_height: 12.0
+is_full_depth: false
+subdevice_role: null
+airflow: mixed
+weight: null
+weight_unit: null
+comments: ''
+module-bays:
+  - name: Fabric Slot 1
+    label: ''
+    position: Fabric 1
+    description: Rear Fabric Slot
+  # ...existing module bays...

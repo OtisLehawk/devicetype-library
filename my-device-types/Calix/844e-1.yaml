@@ -22,8 +22,14 @@ power-ports:
 interfaces:
 - name: ETH-WAN
   type: 1000base-t
-  label: WAN
+  enabled: true
+  mgmt_only: false
+  label: ETH-WAN
   description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
 - name: ETH-LAN1
   type: 1000base-t
   label: LAN1

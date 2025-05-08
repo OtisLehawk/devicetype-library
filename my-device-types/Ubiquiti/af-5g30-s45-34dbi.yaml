@@ -1,0 +1,13 @@
+manufacturer: Ubiquiti
+model: AF-5G30-S45 34dbi
+slug: af-5g30-s45-34dbi
+description: 5GHz Dish 34dBi Gain
+default_platform: null
+part_number: ''
+u_height: 0.0
+is_full_depth: false
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: null
+comments: ''

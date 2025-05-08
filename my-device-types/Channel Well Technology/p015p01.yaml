@@ -1,0 +1,13 @@
+manufacturer: Channel Well Technology
+model: P015P01
+slug: p015p01
+description: 30V .5A PoE Injector
+default_platform: null
+part_number: N000900L001D
+u_height: 0.0
+is_full_depth: false
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: null
+comments: ''

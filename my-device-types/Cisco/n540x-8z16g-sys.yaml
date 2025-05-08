@@ -1,0 +1,303 @@
+---
+manufacturer: Cisco
+model: N540X-8Z16G-SYS-D
+slug: n540x-8z16g-sys
+description: ''
+default_platform: null
+part_number: ''
+u_height: 1.0
+is_full_depth: false
+subdevice_role: null
+airflow: right-to-left
+weight: null
+weight_unit: null
+comments: ''
+console-ports:
+- name: Console
+  type: rj-45
+  label: CONS
+  description: ''
+power-ports:
+- name: Power 1
+  type: dc-terminal
+  maximum_draw: 350
+  allocated_draw: null
+  label: PS0
+  description: ''
+- name: Power 2
+  type: dc-terminal
+  maximum_draw: 350
+  allocated_draw: null
+  label: PS1
+  description: ''
+interfaces:
+- name: Alarm
+  type: 1000base-t
+  enabled: true
+  mgmt_only: false
+  label: ALM
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: Managment
+  type: 1000base-t
+  enabled: true
+  mgmt_only: true
+  label: MGMT
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: Port 0
+  type: 1000base-t
+  enabled: true
+  mgmt_only: false
+  label: GE Cu 0
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: Port 1
+  type: 1000base-t
+  enabled: true
+  mgmt_only: false
+  label: GE Cu 1
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: Port 2
+  type: 1000base-t
+  enabled: true
+  mgmt_only: false
+  label: GE Cu 2
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: Port 3
+  type: 1000base-t
+  enabled: true
+  mgmt_only: false
+  label: GE Cu 3
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: Port 4
+  type: 1000base-x-sfp
+  enabled: true
+  mgmt_only: false
+  label: 1G 4
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: Port 5
+  type: 1000base-x-sfp
+  enabled: true
+  mgmt_only: false
+  label: 1G 5
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: Port 6
+  type: 1000base-x-sfp
+  enabled: true
+  mgmt_only: false
+  label: 1G 6
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: Port 7
+  type: 1000base-x-sfp
+  enabled: true
+  mgmt_only: false
+  label: 1G 7
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: Port 8,9
+  type: 1000base-x-sfp
+  enabled: true
+  mgmt_only: false
+  label: 8,9
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: Port 10,11
+  type: 1000base-x-sfp
+  enabled: true
+  mgmt_only: false
+  label: 10,11
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: Port 12,13
+  type: 1000base-x-sfp
+  enabled: true
+  mgmt_only: false
+  label: 12,13
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: Port 14,15
+  type: 1000base-x-sfp
+  enabled: true
+  mgmt_only: false
+  label: 14,15
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: Port 16,17
+  type: 1000base-x-sfp
+  enabled: true
+  mgmt_only: false
+  label: 16,17
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: Port 18,19
+  type: 1000base-x-sfp
+  enabled: true
+  mgmt_only: false
+  label: 18,19
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: Port 20,21
+  type: 1000base-x-sfp
+  enabled: true
+  mgmt_only: false
+  label: 20,21
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: Port 22,23
+  type: 1000base-x-sfp
+  enabled: true
+  mgmt_only: false
+  label: 22,23
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: Port 24
+  type: 10gbase-x-sfpp
+  enabled: true
+  mgmt_only: false
+  label: 1/10G 24
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: Port 25
+  type: 10gbase-x-sfpp
+  enabled: true
+  mgmt_only: false
+  label: 1/10G 25
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: Port 26
+  type: 10gbase-x-sfpp
+  enabled: true
+  mgmt_only: false
+  label: 1/10G 26
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: Port 27
+  type: 10gbase-x-sfpp
+  enabled: true
+  mgmt_only: false
+  label: 1/10G 27
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: Port 28
+  type: 10gbase-x-sfpp
+  enabled: true
+  mgmt_only: false
+  label: 1/10G 28
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: Port 29
+  type: 10gbase-x-sfpp
+  enabled: true
+  mgmt_only: false
+  label: 1/10G 29
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: Port 30
+  type: 10gbase-x-sfpp
+  enabled: true
+  mgmt_only: false
+  label: 1/10G 30
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: Port 31
+  type: 10gbase-x-sfpp
+  enabled: true
+  mgmt_only: false
+  label: 1/10G 31
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: TOD
+  type: 1000base-t
+  enabled: true
+  mgmt_only: false
+  label: TOD
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null

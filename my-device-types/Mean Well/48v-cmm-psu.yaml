@@ -1,0 +1,39 @@
+manufacturer: Mean Well
+model: 48V CMM PSU
+slug: 48v-cmm-psu
+description: ''
+default_platform: null
+part_number: HLG-600H-48A
+u_height: 0.0
+is_full_depth: false
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: null
+comments: "Datasheet:\r\nhttps://www.mouser.com/datasheet/2/260/HLG_600H_SPEC-1131635.pdf"
+power-ports:
+  - name: Power Cord
+    type: null
+    maximum_draw: null
+    allocated_draw: null
+    label: ''
+    description: Does not come with a plug attached
+power-outlets:
+  - name: 5V Out
+    type: dc-terminal
+    power_port: null
+    feed_leg: null
+    label: ''
+    description: +5V 0.5A
+  - name: 48V Out 1
+    type: dc-terminal
+    power_port: null
+    feed_leg: null
+    label: ''
+    description: +48V 12.5A
+  - name: 48V Out 2
+    type: dc-terminal
+    power_port: null
+    feed_leg: null
+    label: ''
+    description: +48V 12.5A

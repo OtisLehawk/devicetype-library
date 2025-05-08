@@ -1,0 +1,27 @@
+manufacturer: Mean Well
+model: 48V 5A PSU
+slug: 48v-5a-psu
+description: ''
+default_platform: null
+part_number: SP-240-48
+u_height: 0.0
+is_full_depth: false
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: null
+comments: "Datasheet:\r\nhttps://www.mouser.com/datasheet/2/260/MWEC_S_A0007327004_1-2552060.pdf"
+power-ports:
+  - name: Input Terminals
+    type: hardwired
+    maximum_draw: null
+    allocated_draw: null
+    label: AC Input 100-240VAC
+    description: ''
+power-outlets:
+  - name: Output Terminals
+    type: dc-terminal
+    power_port: null
+    feed_leg: null
+    label: DC Output +48V 5A
+    description: ''

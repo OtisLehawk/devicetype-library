@@ -1,0 +1,34 @@
+manufacturer: Motorola
+model: PIDU Plus - PTP 600 Series
+slug: pidu-plus-ptp-600-series
+description: ''
+default_platform: null
+part_number: ''
+u_height: 0.0
+is_full_depth: false
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: null
+comments: ''
+interfaces:
+  - name: LAN
+    type: 100base-tx
+    enabled: true
+    mgmt_only: false
+    label: LAN
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: ODU
+    type: 100base-tx
+    enabled: true
+    mgmt_only: false
+    label: ''
+    description: ''
+    bridge: null
+    poe_mode: pse
+    poe_type: null
+    rf_role: null

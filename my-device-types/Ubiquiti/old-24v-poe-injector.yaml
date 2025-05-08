@@ -1,0 +1,34 @@
+manufacturer: Ubiquiti
+model: (Old) 24v Poe Injector
+slug: old-24v-poe-injector
+description: 24 v 1 Amp Ubiquiti Power Injector
+default_platform: null
+part_number: UBI-POE-24-1
+u_height: 1.0
+is_full_depth: false
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: null
+comments: ''
+interfaces:
+  - name: LAN
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: LAN
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: POE
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: POE
+    description: ''
+    bridge: null
+    poe_mode: pse
+    poe_type: passive-24v-4pair
+    rf_role: null

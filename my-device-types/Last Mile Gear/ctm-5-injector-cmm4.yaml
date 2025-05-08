@@ -1,0 +1,142 @@
+manufacturer: Last Mile Gear
+model: CTM-5 Injector (CMM5)
+slug: ctm-5-injector-cmm4
+description: CTM-5 Injector 56V
+default_platform: null
+part_number: CTM-5 Injector
+u_height: 1.0
+is_full_depth: false
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: null
+comments: ''
+console-ports:
+  - name: USB
+    type: usb-b
+    label: USB
+    description: ''
+power-ports:
+  - name: Primary
+    type: dc-terminal
+    maximum_draw: null
+    allocated_draw: null
+    label: ''
+    description: 48-56V Input
+  - name: Secondary
+    type: dc-terminal
+    maximum_draw: null
+    allocated_draw: null
+    label: ''
+    description: 48-56V Input
+interfaces:
+  - name: POE Out 1
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: '1'
+    description: To Radios
+    bridge: null
+    poe_mode: pse
+    poe_type: null
+    rf_role: null
+  - name: POE Out 2
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: '2'
+    description: To Radios
+    bridge: null
+    poe_mode: pse
+    poe_type: null
+    rf_role: null
+  - name: POE Out 3
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: '3'
+    description: To Radios
+    bridge: null
+    poe_mode: pse
+    poe_type: null
+    rf_role: null
+  - name: POE Out 4
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: '4'
+    description: To Radios
+    bridge: null
+    poe_mode: pse
+    poe_type: null
+    rf_role: null
+  - name: Switch 1
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: '1'
+    description: To Switch Array
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: Switch 2
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: '2'
+    description: To Switch Array
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: Switch 3
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: '3'
+    description: To Switch Array
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: Switch 4
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: '4'
+    description: To Switch Array
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: Sync In
+    type: other
+    enabled: true
+    mgmt_only: false
+    label: IN
+    description: 6 pin GPS IN Port
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: Sync Out
+    type: other
+    enabled: true
+    mgmt_only: false
+    label: OUT
+    description: 6 pin GPS Out Port
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: UGPS
+    type: other
+    enabled: true
+    mgmt_only: false
+    label: UGPS
+    description: 6 pin UGPS Port
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null

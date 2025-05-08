@@ -1,0 +1,223 @@
+manufacturer: Unknown
+model: 16 Port Patch Panel
+slug: 16-port-patch-panel
+description: 16 Port Grounded Ethernet Patch Panel
+default_platform: null
+part_number: ''
+u_height: 2.0
+is_full_depth: false
+subdevice_role: null
+airflow: passive
+weight: null
+weight_unit: null
+comments: ''
+front-ports:
+  - name: In Port 1
+    type: 8p8c
+    color: ''
+    rear_port: Out Port 1
+    rear_port_position: 1
+    label: IN 1
+    description: ''
+  - name: In Port 2
+    type: 8p8c
+    color: ''
+    rear_port: Out Port 2
+    rear_port_position: 1
+    label: IN 2
+    description: ''
+  - name: In Port 3
+    type: 8p8c
+    color: ''
+    rear_port: Out Port 3
+    rear_port_position: 1
+    label: IN 3
+    description: ''
+  - name: In Port 4
+    type: 8p8c
+    color: ''
+    rear_port: Out Port 4
+    rear_port_position: 1
+    label: IN 4
+    description: ''
+  - name: In Port 5
+    type: 8p8c
+    color: ''
+    rear_port: Out Port 5
+    rear_port_position: 1
+    label: IN 5
+    description: ''
+  - name: In Port 6
+    type: 8p8c
+    color: ''
+    rear_port: Out Port 6
+    rear_port_position: 1
+    label: IN 6
+    description: ''
+  - name: In Port 7
+    type: 8p8c
+    color: ''
+    rear_port: Out Port 7
+    rear_port_position: 1
+    label: IN 7
+    description: ''
+  - name: In Port 8
+    type: 8p8c
+    color: ''
+    rear_port: Out Port 8
+    rear_port_position: 1
+    label: IN 8
+    description: ''
+  - name: In Port 9
+    type: 8p8c
+    color: ''
+    rear_port: Out Port 9
+    rear_port_position: 1
+    label: IN 9
+    description: ''
+  - name: In Port 10
+    type: 8p8c
+    color: ''
+    rear_port: Out Port 10
+    rear_port_position: 1
+    label: IN 10
+    description: ''
+  - name: In Port 11
+    type: 8p8c
+    color: ''
+    rear_port: Out Port 11
+    rear_port_position: 1
+    label: IN 11
+    description: ''
+  - name: In Port 12
+    type: 8p8c
+    color: ''
+    rear_port: Out Port 12
+    rear_port_position: 1
+    label: IN 12
+    description: ''
+  - name: In Port 13
+    type: 8p8c
+    color: ''
+    rear_port: Out Port 13
+    rear_port_position: 1
+    label: IN 13
+    description: ''
+  - name: In Port 14
+    type: 8p8c
+    color: ''
+    rear_port: Out Port 14
+    rear_port_position: 1
+    label: IN 14
+    description: ''
+  - name: In Port 15
+    type: 8p8c
+    color: ''
+    rear_port: Out Port 15
+    rear_port_position: 1
+    label: IN 15
+    description: ''
+  - name: In Port 16
+    type: 8p8c
+    color: ''
+    rear_port: Out Port 16
+    rear_port_position: 1
+    label: IN 16
+    description: ''
+rear-ports:
+  - name: Out Port 1
+    type: 8p8c
+    color: ''
+    positions: 1
+    label: OUT 1
+    description: ''
+  - name: Out Port 2
+    type: 8p8c
+    color: ''
+    positions: 1
+    label: OUT 2
+    description: ''
+  - name: Out Port 3
+    type: 8p8c
+    color: ''
+    positions: 1
+    label: OUT 3
+    description: ''
+  - name: Out Port 4
+    type: 8p8c
+    color: ''
+    positions: 1
+    label: OUT 4
+    description: ''
+  - name: Out Port 5
+    type: 8p8c
+    color: ''
+    positions: 1
+    label: OUT 5
+    description: ''
+  - name: Out Port 6
+    type: 8p8c
+    color: ''
+    positions: 1
+    label: OUT 6
+    description: ''
+  - name: Out Port 7
+    type: 8p8c
+    color: ''
+    positions: 1
+    label: OUT 7
+    description: ''
+  - name: Out Port 8
+    type: 8p8c
+    color: ''
+    positions: 1
+    label: OUT 8
+    description: ''
+  - name: Out Port 9
+    type: 8p8c
+    color: ''
+    positions: 1
+    label: OUT 9
+    description: ''
+  - name: Out Port 10
+    type: 8p8c
+    color: ''
+    positions: 1
+    label: OUT 10
+    description: ''
+  - name: Out Port 11
+    type: 8p8c
+    color: ''
+    positions: 1
+    label: OUT 11
+    description: ''
+  - name: Out Port 12
+    type: 8p8c
+    color: ''
+    positions: 1
+    label: OUT 12
+    description: ''
+  - name: Out Port 13
+    type: 8p8c
+    color: ''
+    positions: 1
+    label: OUT 13
+    description: ''
+  - name: Out Port 14
+    type: 8p8c
+    color: ''
+    positions: 1
+    label: OUT 14
+    description: ''
+  - name: Out Port 15
+    type: 8p8c
+    color: ''
+    positions: 1
+    label: OUT 15
+    description: ''
+  - name: Out Port 16
+    type: 8p8c
+    color: ''
+    positions: 1
+    label: OUT 16
+    description: ''

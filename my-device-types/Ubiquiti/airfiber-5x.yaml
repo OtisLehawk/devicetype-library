@@ -1,0 +1,44 @@
+manufacturer: Ubiquiti
+model: airFiber 5X
+slug: airfiber-5x
+description: 5Ghz radio
+default_platform: null
+part_number: AF-5X
+u_height: 0.0
+is_full_depth: false
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: null
+comments: ''
+interfaces:
+  - name: DATA
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: LAN 0
+    description: ''
+    bridge: null
+    poe_mode: pd
+    poe_type: null
+    rf_role: null
+  - name: MGMT
+    type: 100base-tx
+    enabled: true
+    mgmt_only: false
+    label: Management Port
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: Wireless
+    type: other-wireless
+    enabled: true
+    mgmt_only: false
+    label: ''
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null

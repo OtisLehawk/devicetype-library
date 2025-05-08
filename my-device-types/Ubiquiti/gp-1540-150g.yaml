@@ -1,0 +1,13 @@
+manufacturer: Ubiquiti
+model: GP-1540-150G
+slug: gp-1540-150g
+description: 54V PoE Injector
+default_platform: null
+part_number: ''
+u_height: 0.0
+is_full_depth: false
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: null
+comments: 'Output: 54V and 1.5A'

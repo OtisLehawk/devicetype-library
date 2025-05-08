@@ -1,0 +1,13 @@
+manufacturer: Ubiquiti
+model: UFiber Loco
+slug: ufiber-loco
+description: UFiber ONU
+default_platform: null
+part_number: UF-LOCO
+u_height: 0.0
+is_full_depth: false
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: null
+comments: ''

@@ -1,0 +1,89 @@
+manufacturer: Imagestream
+model: TransPort LE
+slug: transport-le
+description: Router
+default_platform: null
+part_number: Transport TR1000 Rev 3
+u_height: 0.0
+is_full_depth: false
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: null
+comments: ''
+console-ports:
+  - name: Console
+    type: rj-45
+    label: Console
+    description: ''
+power-ports:
+  - name: DC 12V
+    type: dc-terminal
+    maximum_draw: null
+    allocated_draw: null
+    label: DC 12V
+    description: ''
+power-outlets:
+  - name: USB
+    type: usb-a
+    power_port: null
+    feed_leg: null
+    label: USB
+    description: ''
+  - name: USB 1
+    type: usb-a
+    power_port: null
+    feed_leg: null
+    label: USB 1
+    description: ''
+interfaces:
+  - name: ETH 0
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: ETH 0
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: ETH 1
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: ETH 1
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: ETH 2
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: ETH 2
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: ETH 3
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: ETH 3
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: VGA
+    type: other
+    enabled: true
+    mgmt_only: false
+    label: VGA
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null

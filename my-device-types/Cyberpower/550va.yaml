@@ -1,7 +1,6 @@
----
-manufacturer: Ambery
-model: IP P2
-slug: ip-p2
+manufacturer: Cyberpower
+model: 550VA
+slug: 550va
 description: ''
 default_platform: null
 part_number: ''
@@ -20,15 +19,10 @@ power-ports:
     label: ''
     description: ''
 power-outlets:
-  - name: Power 1
+  - name: Battery Outlets 1
     type: nema-5-15r
     power_port: null
     feed_leg: null
-    label: P1
+    label: Battery 1
     description: ''
-  - name: Power 2
-    type: nema-5-15r
-    power_port: null
-    feed_leg: null
-    label: P2
-    description: ''
+  # ...existing power outlets...

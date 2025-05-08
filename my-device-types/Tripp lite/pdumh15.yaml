@@ -1,0 +1,99 @@
+manufacturer: Tripp lite
+model: PDUMH15
+slug: pdumh15
+description: ''
+default_platform: null
+part_number: ''
+u_height: 1.0
+is_full_depth: false
+subdevice_role: null
+airflow: passive
+weight: null
+weight_unit: null
+comments: ''
+power-ports:
+  - name: Power Cord
+    type: nema-5-15p
+    maximum_draw: 1400
+    allocated_draw: null
+    label: ''
+    description: ''
+power-outlets:
+  - name: Outlet 1
+    type: nema-5-15r
+    power_port: null
+    feed_leg: null
+    label: ''
+    description: ''
+  - name: Outlet 2
+    type: nema-5-15r
+    power_port: null
+    feed_leg: null
+    label: ''
+    description: ''
+  - name: Outlet 3
+    type: nema-5-15r
+    power_port: null
+    feed_leg: null
+    label: ''
+    description: ''
+  - name: Outlet 4
+    type: nema-5-15r
+    power_port: null
+    feed_leg: null
+    label: ''
+    description: ''
+  - name: Outlet 5
+    type: nema-5-15r
+    power_port: null
+    feed_leg: null
+    label: ''
+    description: ''
+  - name: Outlet 6
+    type: nema-5-15r
+    power_port: null
+    feed_leg: null
+    label: ''
+    description: ''
+  - name: Outlet 7
+    type: nema-5-15r
+    power_port: null
+    feed_leg: null
+    label: ''
+    description: ''
+  - name: Outlet 8
+    type: nema-5-15r
+    power_port: null
+    feed_leg: null
+    label: ''
+    description: ''
+  - name: Outlet 9
+    type: nema-5-15r
+    power_port: null
+    feed_leg: null
+    label: ''
+    description: ''
+  - name: Outlet 10
+    type: nema-5-15r
+    power_port: null
+    feed_leg: null
+    label: ''
+    description: ''
+  - name: Outlet 11
+    type: nema-5-15r
+    power_port: null
+    feed_leg: null
+    label: ''
+    description: ''
+  - name: Outlet 12
+    type: nema-5-15r
+    power_port: null
+    feed_leg: null
+    label: ''
+    description: ''
+  - name: Outlet Front
+    type: nema-5-15r
+    power_port: null
+    feed_leg: null
+    label: ''
+    description: ''

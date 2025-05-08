@@ -1,0 +1,107 @@
+manufacturer: Mikrotik
+model: hAP ac2
+slug: hap-ac2
+description: Router
+default_platform: null
+part_number: RBD52G-5HacD2HnD-TC-US
+u_height: 0.0
+is_full_depth: false
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: null
+comments: ''
+power-ports:
+  - name: DC In
+    type: dc-terminal
+    maximum_draw: 21
+    allocated_draw: 16
+    label: DC
+    description: 12-28V
+  - name: USB Type A
+    type: usb-a
+    maximum_draw: null
+    allocated_draw: null
+    label: USB Type A
+    description: ''
+interfaces:
+  - name: Bridge
+    type: bridge
+    enabled: true
+    mgmt_only: false
+    label: ''
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: LAN 2
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: LAN 2
+    description: ''
+    bridge: Bridge
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: LAN 3
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: LAN 3
+    description: ''
+    bridge: Bridge
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: LAN 4
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: LAN 4
+    description: ''
+    bridge: Bridge
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: LAN 5
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: LAN 5
+    description: ''
+    bridge: Bridge
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: PoE/WAN
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: Internet/PoE In
+    description: ''
+    bridge: null
+    poe_mode: pd
+    poe_type: passive-24v-4pair
+    rf_role: null
+  - name: Wireless 2.4 Ghz
+    type: other-wireless
+    enabled: true
+    mgmt_only: false
+    label: ''
+    description: ''
+    bridge: Bridge
+    poe_mode: null
+    poe_type: null
+    rf_role: ap
+  - name: Wireless 5 GHz
+    type: other-wireless
+    enabled: true
+    mgmt_only: false
+    label: ''
+    description: ''
+    bridge: Bridge
+    poe_mode: null
+    poe_type: null
+    rf_role: ap

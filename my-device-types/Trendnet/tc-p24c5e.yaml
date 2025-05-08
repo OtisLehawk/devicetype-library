@@ -1,0 +1,327 @@
+manufacturer: Trendnet
+model: TC-P24C5E
+slug: tc-p24c5e
+description: 24 Port Punchdown Patch Panel
+default_platform: null
+part_number: ''
+u_height: 1.0
+is_full_depth: false
+subdevice_role: null
+airflow: passive
+weight: null
+weight_unit: null
+comments: ''
+front-ports:
+  - name: Port 1
+    type: 8p8c
+    color: ''
+    rear_port: Port 1
+    rear_port_position: 1
+    label: '1'
+    description: ''
+  - name: Port 2
+    type: 8p8c
+    color: ''
+    rear_port: Port 2
+    rear_port_position: 1
+    label: '2'
+    description: ''
+  - name: Port 3
+    type: 8p8c
+    color: ''
+    rear_port: Port 3
+    rear_port_position: 1
+    label: '3'
+    description: ''
+  - name: Port 4
+    type: 8p8c
+    color: ''
+    rear_port: Port 4
+    rear_port_position: 1
+    label: '4'
+    description: ''
+  - name: Port 5
+    type: 8p8c
+    color: ''
+    rear_port: Port 5
+    rear_port_position: 1
+    label: '5'
+    description: ''
+  - name: Port 6
+    type: 8p8c
+    color: ''
+    rear_port: Port 6
+    rear_port_position: 1
+    label: '6'
+    description: ''
+  - name: Port 7
+    type: 8p8c
+    color: ''
+    rear_port: Port 7
+    rear_port_position: 1
+    label: '7'
+    description: ''
+  - name: Port 8
+    type: 8p8c
+    color: ''
+    rear_port: Port 8
+    rear_port_position: 1
+    label: '8'
+    description: ''
+  - name: Port 9
+    type: 8p8c
+    color: ''
+    rear_port: Port 9
+    rear_port_position: 1
+    label: '9'
+    description: ''
+  - name: Port 10
+    type: 8p8c
+    color: ''
+    rear_port: Port 10
+    rear_port_position: 1
+    label: '10'
+    description: ''
+  - name: Port 11
+    type: 8p8c
+    color: ''
+    rear_port: Port 11
+    rear_port_position: 1
+    label: '11'
+    description: ''
+  - name: Port 12
+    type: 8p8c
+    color: ''
+    rear_port: Port 12
+    rear_port_position: 1
+    label: '12'
+    description: ''
+  - name: Port 13
+    type: 8p8c
+    color: ''
+    rear_port: Port 13
+    rear_port_position: 1
+    label: '13'
+    description: ''
+  - name: Port 14
+    type: 8p8c
+    color: ''
+    rear_port: Port 14
+    rear_port_position: 1
+    label: '14'
+    description: ''
+  - name: Port 15
+    type: 8p8c
+    color: ''
+    rear_port: Port 15
+    rear_port_position: 1
+    label: '15'
+    description: ''
+  - name: Port 16
+    type: 8p8c
+    color: ''
+    rear_port: Port 16
+    rear_port_position: 1
+    label: '16'
+    description: ''
+  - name: Port 17
+    type: 8p8c
+    color: ''
+    rear_port: Port 17
+    rear_port_position: 1
+    label: '17'
+    description: ''
+  - name: Port 18
+    type: 8p8c
+    color: ''
+    rear_port: Port 18
+    rear_port_position: 1
+    label: '18'
+    description: ''
+  - name: Port 19
+    type: 8p8c
+    color: ''
+    rear_port: Port 19
+    rear_port_position: 1
+    label: '19'
+    description: ''
+  - name: Port 20
+    type: 8p8c
+    color: ''
+    rear_port: Port 20
+    rear_port_position: 1
+    label: '20'
+    description: ''
+  - name: Port 21
+    type: 8p8c
+    color: ''
+    rear_port: Port 21
+    rear_port_position: 1
+    label: '21'
+    description: ''
+  - name: Port 22
+    type: 8p8c
+    color: ''
+    rear_port: Port 22
+    rear_port_position: 1
+    label: '22'
+    description: ''
+  - name: Port 23
+    type: 8p8c
+    color: ''
+    rear_port: Port 23
+    rear_port_position: 1
+    label: '23'
+    description: ''
+  - name: Port 24
+    type: 8p8c
+    color: ''
+    rear_port: Port 24
+    rear_port_position: 1
+    label: '24'
+    description: ''
+rear-ports:
+  - name: Port 1
+    type: 110-punch
+    color: ''
+    positions: 1
+    label: ''
+    description: ''
+  - name: Port 2
+    type: 110-punch
+    color: ''
+    positions: 1
+    label: ''
+    description: ''
+  - name: Port 3
+    type: 110-punch
+    color: ''
+    positions: 1
+    label: ''
+    description: ''
+  - name: Port 4
+    type: 110-punch
+    color: ''
+    positions: 1
+    label: ''
+    description: ''
+  - name: Port 5
+    type: 110-punch
+    color: ''
+    positions: 1
+    label: ''
+    description: ''
+  - name: Port 6
+    type: 110-punch
+    color: ''
+    positions: 1
+    label: ''
+    description: ''
+  - name: Port 7
+    type: 110-punch
+    color: ''
+    positions: 1
+    label: ''
+    description: ''
+  - name: Port 8
+    type: 110-punch
+    color: ''
+    positions: 1
+    label: ''
+    description: ''
+  - name: Port 9
+    type: 110-punch
+    color: ''
+    positions: 1
+    label: ''
+    description: ''
+  - name: Port 10
+    type: 110-punch
+    color: ''
+    positions: 1
+    label: ''
+    description: ''
+  - name: Port 11
+    type: 110-punch
+    color: ''
+    positions: 1
+    label: ''
+    description: ''
+  - name: Port 12
+    type: 110-punch
+    color: ''
+    positions: 1
+    label: ''
+    description: ''
+  - name: Port 13
+    type: 110-punch
+    color: ''
+    positions: 1
+    label: ''
+    description: ''
+  - name: Port 14
+    type: 110-punch
+    color: ''
+    positions: 1
+    label: ''
+    description: ''
+  - name: Port 15
+    type: 110-punch
+    color: ''
+    positions: 1
+    label: ''
+    description: ''
+  - name: Port 16
+    type: 110-punch
+    color: ''
+    positions: 1
+    label: ''
+    description: ''
+  - name: Port 17
+    type: 110-punch
+    color: ''
+    positions: 1
+    label: ''
+    description: ''
+  - name: Port 18
+    type: 110-punch
+    color: ''
+    positions: 1
+    label: ''
+    description: ''
+  - name: Port 19
+    type: 110-punch
+    color: ''
+    positions: 1
+    label: ''
+    description: ''
+  - name: Port 20
+    type: 110-punch
+    color: ''
+    positions: 1
+    label: ''
+    description: ''
+  - name: Port 21
+    type: 110-punch
+    color: ''
+    positions: 1
+    label: ''
+    description: ''
+  - name: Port 22
+    type: 110-punch
+    color: ''
+    positions: 1
+    label: ''
+    description: ''
+  - name: Port 23
+    type: 110-punch
+    color: ''
+    positions: 1
+    label: ''
+    description: ''
+  - name: Port 24
+    type: 110-punch
+    color: ''
+    positions: 1
+    label: ''
+    description: ''

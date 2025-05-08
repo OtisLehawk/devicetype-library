@@ -1,0 +1,327 @@
+manufacturer: Unknown
+model: 24 Port Patch Panel
+slug: 24-port-patch-panel
+description: 24 Port Protected Patch Panel. RJ45 on front Punchdowns on back
+default_platform: null
+part_number: ''
+u_height: 2.0
+is_full_depth: false
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: null
+comments: ''
+front-ports:
+  - name: Port 1
+    type: 8p8c
+    color: ''
+    rear_port: Rear 1
+    rear_port_position: 1
+    label: Port 1
+    description: ''
+  - name: Port 2
+    type: 8p8c
+    color: ''
+    rear_port: Rear 2
+    rear_port_position: 1
+    label: Port 2
+    description: ''
+  - name: Port 3
+    type: 8p8c
+    color: ''
+    rear_port: Rear 3
+    rear_port_position: 1
+    label: Port 3
+    description: ''
+  - name: Port 4
+    type: 8p8c
+    color: ''
+    rear_port: Rear 4
+    rear_port_position: 1
+    label: Port 4
+    description: ''
+  - name: Port 5
+    type: 8p8c
+    color: ''
+    rear_port: Rear 5
+    rear_port_position: 1
+    label: Port 5
+    description: ''
+  - name: Port 6
+    type: 8p8c
+    color: ''
+    rear_port: Rear 6
+    rear_port_position: 1
+    label: Port 6
+    description: ''
+  - name: Port 7
+    type: 8p8c
+    color: ''
+    rear_port: Rear 7
+    rear_port_position: 1
+    label: Port 7
+    description: ''
+  - name: Port 8
+    type: 8p8c
+    color: ''
+    rear_port: Rear 8
+    rear_port_position: 1
+    label: Port 8
+    description: ''
+  - name: Port 9
+    type: 8p8c
+    color: ''
+    rear_port: Rear 9
+    rear_port_position: 1
+    label: Port 9
+    description: ''
+  - name: Port 10
+    type: 8p8c
+    color: ''
+    rear_port: Rear 10
+    rear_port_position: 1
+    label: Port 10
+    description: ''
+  - name: Port 11
+    type: 8p8c
+    color: ''
+    rear_port: Rear 11
+    rear_port_position: 1
+    label: Port 11
+    description: ''
+  - name: Port 12
+    type: 8p8c
+    color: ''
+    rear_port: Rear 12
+    rear_port_position: 1
+    label: Port 12
+    description: ''
+  - name: Port 13
+    type: 8p8c
+    color: ''
+    rear_port: Rear 13
+    rear_port_position: 1
+    label: Port 13
+    description: ''
+  - name: Port 14
+    type: 8p8c
+    color: ''
+    rear_port: Rear 14
+    rear_port_position: 1
+    label: Port 14
+    description: ''
+  - name: Port 15
+    type: 8p8c
+    color: ''
+    rear_port: Rear 15
+    rear_port_position: 1
+    label: Port 15
+    description: ''
+  - name: Port 16
+    type: 8p8c
+    color: ''
+    rear_port: Rear 16
+    rear_port_position: 1
+    label: Port 16
+    description: ''
+  - name: Port 17
+    type: 8p8c
+    color: ''
+    rear_port: Rear 17
+    rear_port_position: 1
+    label: Port 17
+    description: ''
+  - name: Port 18
+    type: 8p8c
+    color: ''
+    rear_port: Rear 18
+    rear_port_position: 1
+    label: Port 18
+    description: ''
+  - name: Port 19
+    type: 8p8c
+    color: ''
+    rear_port: Rear 19
+    rear_port_position: 1
+    label: Port 19
+    description: ''
+  - name: Port 20
+    type: 8p8c
+    color: ''
+    rear_port: Rear 20
+    rear_port_position: 1
+    label: Port 20
+    description: ''
+  - name: Port 21
+    type: 8p8c
+    color: ''
+    rear_port: Rear 21
+    rear_port_position: 1
+    label: Port 21
+    description: ''
+  - name: Port 22
+    type: 8p8c
+    color: ''
+    rear_port: Rear 22
+    rear_port_position: 1
+    label: Port 22
+    description: ''
+  - name: Port 23
+    type: 8p8c
+    color: ''
+    rear_port: Rear 23
+    rear_port_position: 1
+    label: Port 23
+    description: ''
+  - name: Port 24
+    type: 8p8c
+    color: ''
+    rear_port: Rear 24
+    rear_port_position: 1
+    label: Port 24
+    description: ''
+rear-ports:
+  - name: Rear 1
+    type: 110-punch
+    color: ffffff
+    positions: 1
+    label: Rear 1
+    description: ''
+  - name: Rear 2
+    type: 110-punch
+    color: ffffff
+    positions: 1
+    label: Rear 2
+    description: ''
+  - name: Rear 3
+    type: 110-punch
+    color: ffffff
+    positions: 1
+    label: Rear 3
+    description: ''
+  - name: Rear 4
+    type: 110-punch
+    color: ffffff
+    positions: 1
+    label: Rear 4
+    description: ''
+  - name: Rear 5
+    type: 110-punch
+    color: ffffff
+    positions: 1
+    label: Rear 5
+    description: ''
+  - name: Rear 6
+    type: 110-punch
+    color: ffffff
+    positions: 1
+    label: Rear 6
+    description: ''
+  - name: Rear 7
+    type: 110-punch
+    color: ffffff
+    positions: 1
+    label: Rear 7
+    description: ''
+  - name: Rear 8
+    type: 110-punch
+    color: ffffff
+    positions: 1
+    label: Rear 8
+    description: ''
+  - name: Rear 9
+    type: 110-punch
+    color: ffffff
+    positions: 1
+    label: Rear 9
+    description: ''
+  - name: Rear 10
+    type: 110-punch
+    color: ffffff
+    positions: 1
+    label: Rear 10
+    description: ''
+  - name: Rear 11
+    type: 110-punch
+    color: ffffff
+    positions: 1
+    label: Rear 11
+    description: ''
+  - name: Rear 12
+    type: 110-punch
+    color: ffffff
+    positions: 1
+    label: Rear 12
+    description: ''
+  - name: Rear 13
+    type: 110-punch
+    color: ffffff
+    positions: 1
+    label: Rear 13
+    description: ''
+  - name: Rear 14
+    type: 110-punch
+    color: ffffff
+    positions: 1
+    label: Rear 14
+    description: ''
+  - name: Rear 15
+    type: 110-punch
+    color: ffffff
+    positions: 1
+    label: Rear 15
+    description: ''
+  - name: Rear 16
+    type: 110-punch
+    color: ffffff
+    positions: 1
+    label: Rear 16
+    description: ''
+  - name: Rear 17
+    type: 110-punch
+    color: ffffff
+    positions: 1
+    label: Rear 17
+    description: ''
+  - name: Rear 18
+    type: 110-punch
+    color: ffffff
+    positions: 1
+    label: Rear 18
+    description: ''
+  - name: Rear 19
+    type: 110-punch
+    color: ffffff
+    positions: 1
+    label: Rear 19
+    description: ''
+  - name: Rear 20
+    type: 110-punch
+    color: ffffff
+    positions: 1
+    label: Rear 20
+    description: ''
+  - name: Rear 21
+    type: 110-punch
+    color: ffffff
+    positions: 1
+    label: Rear 21
+    description: ''
+  - name: Rear 22
+    type: 110-punch
+    color: ffffff
+    positions: 1
+    label: Rear 22
+    description: ''
+  - name: Rear 23
+    type: 110-punch
+    color: ffffff
+    positions: 1
+    label: Rear 23
+    description: ''
+  - name: Rear 24
+    type: 110-punch
+    color: ffffff
+    positions: 1
+    label: Rear 24
+    description: ''

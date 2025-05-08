@@ -1,0 +1,107 @@
+manufacturer: Cisco
+model: ASR-920-4SZ-A
+slug: cisco-asr-920-4sz-a
+description: ''
+default_platform: null
+part_number: ASR-920-4SZ-A
+u_height: 1.0
+is_full_depth: false
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: null
+comments: '[Cisco ASR 920 Series Aggregation Services Routers: Low-Port-Density Models
+  Data Sheet](https://www.cisco.com/c/en/us/products/collateral/routers/asr-920-series-aggregation-services-router/datasheet-c78-732103.html)'
+console-ports:
+  - name: Console
+    type: usb-a
+    label: ''
+    description: ''
+  - name: USB CON
+    type: usb-a
+    label: ''
+    description: ''
+power-ports:
+  - name: PSU0
+    type: iec-60320-c16
+    maximum_draw: 105
+    allocated_draw: null
+    label: ''
+    description: ''
+  - name: PSU1
+    type: iec-60320-c16
+    maximum_draw: 105
+    allocated_draw: null
+    label: ''
+    description: ''
+interfaces:
+  - name: Gi0
+    type: 1000base-t
+    enabled: true
+    mgmt_only: true
+    label: ''
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: Gi0/0/0
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: ''
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: Gi0/0/1
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: ''
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: Te0/0/2
+    type: 10gbase-x-sfpp
+    enabled: true
+    mgmt_only: false
+    label: ''
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: Te0/0/3
+    type: 10gbase-x-sfpp
+    enabled: true
+    mgmt_only: false
+    label: ''
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: Te0/0/4
+    type: 10gbase-x-sfpp
+    enabled: true
+    mgmt_only: false
+    label: ''
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: Te0/0/5
+    type: 10gbase-x-sfpp
+    enabled: true
+    mgmt_only: false
+    label: ''
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null

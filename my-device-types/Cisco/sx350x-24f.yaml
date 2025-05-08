@@ -1,0 +1,310 @@
+---
+manufacturer: Cisco
+model: SX350X-24F
+slug: sx350x-24f
+description: 24-Port 10G SFP+ Stackable Managed Switch
+default_platform: null
+part_number: ''
+u_height: 1.0
+is_full_depth: false
+subdevice_role: null
+airflow: side-to-rear
+weight: null
+weight_unit: null
+comments: ''
+console-ports:
+- name: Console
+  type: rj-45
+  label: CONSOLE
+  description: ''
+interfaces:
+- name: Copper 21
+  type: 1000base-t
+  enabled: true
+  mgmt_only: false
+  label: '21'
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: Copper 22
+  type: 1000base-t
+  enabled: true
+  mgmt_only: false
+  label: '22'
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: Copper 23
+  type: 1000base-t
+  enabled: true
+  mgmt_only: false
+  label: '23'
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: Copper 24
+  type: 1000base-t
+  enabled: true
+  mgmt_only: false
+  label: '24'
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: Managment
+  type: 1000base-t
+  enabled: true
+  mgmt_only: true
+  label: OOB
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP+ 1
+  type: 10gbase-x-sfpp
+  enabled: true
+  mgmt_only: false
+  label: '1'
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP+ 2
+  type: 10gbase-x-sfpp
+  enabled: true
+  mgmt_only: false
+  label: '2'
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP+ 3
+  type: 10gbase-x-sfpp
+  enabled: true
+  mgmt_only: false
+  label: '3'
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP+ 4
+  type: 10gbase-x-sfpp
+  enabled: true
+  mgmt_only: false
+  label: '4'
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP+ 5
+  type: 10gbase-x-sfpp
+  enabled: true
+  mgmt_only: false
+  label: '5'
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP+ 6
+  type: 10gbase-x-sfpp
+  enabled: true
+  mgmt_only: false
+  label: '6'
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP+ 7
+  type: 10gbase-x-sfpp
+  enabled: true
+  mgmt_only: false
+  label: '7'
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP+ 8
+  type: 10gbase-x-sfpp
+  enabled: true
+  mgmt_only: false
+  label: '8'
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP+ 9
+  type: 10gbase-x-sfpp
+  enabled: true
+  mgmt_only: false
+  label: '9'
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP+ 10
+  type: 10gbase-x-sfpp
+  enabled: true
+  mgmt_only: false
+  label: '10'
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP+ 11
+  type: 10gbase-x-sfpp
+  enabled: true
+  mgmt_only: false
+  label: '11'
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP+ 12
+  type: 10gbase-x-sfpp
+  enabled: true
+  mgmt_only: false
+  label: '12'
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP+ 13
+  type: 10gbase-x-sfpp
+  enabled: true
+  mgmt_only: false
+  label: '13'
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP+ 14
+  type: 10gbase-x-sfpp
+  enabled: true
+  mgmt_only: false
+  label: '14'
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP+ 15
+  type: 10gbase-x-sfpp
+  enabled: true
+  mgmt_only: false
+  label: '15'
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP+ 16
+  type: 10gbase-x-sfpp
+  enabled: true
+  mgmt_only: false
+  label: '16'
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP+ 17
+  type: 10gbase-x-sfpp
+  enabled: true
+  mgmt_only: false
+  label: '17'
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP+ 18
+  type: 10gbase-x-sfpp
+  enabled: true
+  mgmt_only: false
+  label: '18'
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP+ 19
+  type: 10gbase-x-sfpp
+  enabled: true
+  mgmt_only: false
+  label: '19'
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP+ 20
+  type: 10gbase-x-sfpp
+  enabled: true
+  mgmt_only: false
+  label: '20'
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP+ 21
+  type: 10gbase-x-sfpp
+  enabled: true
+  mgmt_only: false
+  label: '21'
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP+ 22
+  type: 10gbase-x-sfpp
+  enabled: true
+  mgmt_only: false
+  label: '22'
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP+ 23
+  type: 10gbase-x-sfpp
+  enabled: true
+  mgmt_only: false
+  label: '23'
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP+ 24
+  type: 10gbase-x-sfpp
+  enabled: true
+  mgmt_only: false
+  label: '24'
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null

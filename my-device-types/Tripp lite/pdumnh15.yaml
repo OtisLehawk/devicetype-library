@@ -1,0 +1,93 @@
+manufacturer: Tripp lite
+model: PDUMNH15
+slug: pdumnh15
+description: ''
+default_platform: null
+part_number: ''
+u_height: 1.0
+is_full_depth: false
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: null
+comments: ''
+console-ports:
+  - name: Config
+    type: mini-din-8
+    label: Config
+    description: ''
+  - name: Console
+    type: de-9
+    label: Factory Config Only
+    description: ''
+  - name: Envirosense
+    type: mini-din-8
+    label: Envirosense
+    description: ''
+power-ports:
+  - name: Power Cord
+    type: nema-5-15p
+    maximum_draw: null
+    allocated_draw: null
+    label: ''
+    description: ''
+power-outlets:
+  - name: Outlet 1
+    type: nema-5-15r
+    power_port: null
+    feed_leg: null
+    label: ''
+    description: ''
+  - name: Outlet 2
+    type: nema-5-15r
+    power_port: null
+    feed_leg: null
+    label: ''
+    description: ''
+  - name: Outlet 3
+    type: nema-5-15r
+    power_port: null
+    feed_leg: null
+    label: ''
+    description: ''
+  - name: Outlet 4
+    type: nema-5-15r
+    power_port: null
+    feed_leg: null
+    label: ''
+    description: ''
+  - name: Outlet 5
+    type: nema-5-15r
+    power_port: null
+    feed_leg: null
+    label: ''
+    description: ''
+  - name: Outlet 6
+    type: nema-5-15r
+    power_port: null
+    feed_leg: null
+    label: ''
+    description: ''
+  - name: Outlet 7
+    type: nema-5-15r
+    power_port: null
+    feed_leg: null
+    label: ''
+    description: ''
+  - name: Outlet 8
+    type: nema-5-15r
+    power_port: null
+    feed_leg: null
+    label: ''
+    description: ''
+interfaces:
+  - name: Managment
+    type: 1000base-t
+    enabled: true
+    mgmt_only: true
+    label: ''
+    description: Unlabeled Port. Assuming Managment
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
