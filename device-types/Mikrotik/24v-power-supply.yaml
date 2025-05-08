@@ -1,0 +1,20 @@
+manufacturer: Mikrotik
+model: 24v Power Supply
+slug: mikrotik-24v-power-supply
+description: Input 100-240VAC Output 24DC 1200mA
+default_platform: null
+part_number: SAW30-240-1200U
+u_height: 0.0
+is_full_depth: false
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: null
+comments: Standard Mikrotik 24v Power supply that is included with routers
+power-outlets:
+  - name: Power Plug
+    type: dc-terminal
+    power_port: null
+    feed_leg: null
+    label: ''
+    description: ''

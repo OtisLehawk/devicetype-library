@@ -1,0 +1,126 @@
+manufacturer: Ubiquiti
+model: Edge Router Pro
+slug: edge-router-pro
+description: Edge Router Pro
+default_platform: null
+part_number: ERPro-8
+u_height: 1.0
+is_full_depth: false
+subdevice_role: null
+airflow: side-to-rear
+weight: null
+weight_unit: null
+comments: ''
+console-ports:
+  - name: Console
+    type: rj-45
+    label: CONSOLE
+    description: ''
+power-outlets:
+  - name: USB
+    type: usb-a
+    power_port: null
+    feed_leg: null
+    label: ''
+    description: ''
+interfaces:
+  - name: ETH 0
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: eth 0
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: ETH 1
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: eth 1
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: ETH 2
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: eth 2
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: ETH 3
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: eth 3
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: ETH 4
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: eth 4
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: ETH 5
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: eth 5
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: ETH 6
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: eth 6
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: ETH 7
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: eth 7
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: SFP 6
+    type: 1000base-x-sfp
+    enabled: true
+    mgmt_only: false
+    label: eth 6
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: SFP 7
+    type: 1000base-x-sfp
+    enabled: true
+    mgmt_only: false
+    label: eth 7
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null

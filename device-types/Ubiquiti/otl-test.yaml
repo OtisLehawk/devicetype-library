@@ -1,0 +1,138 @@
+manufacturer: Ubiquiti
+model: OTL Test
+slug: otl-test
+description: ''
+default_platform: null
+part_number: ''
+u_height: 1.0
+is_full_depth: false
+subdevice_role: null
+airflow: side-to-rear
+weight: null
+weight_unit: null
+comments: ''
+console-ports:
+  - name: Console
+    type: rj-45
+    label: COSOLE
+    description: ''
+interfaces:
+  - name: Managment
+    type: 1000base-t
+    enabled: true
+    mgmt_only: true
+    label: MGMT
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: PON 1
+    type: gpon
+    enabled: true
+    mgmt_only: false
+    label: PON 1
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: PON 2
+    type: gpon
+    enabled: true
+    mgmt_only: false
+    label: PON 2
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: PON 3
+    type: gpon
+    enabled: true
+    mgmt_only: false
+    label: PON 3
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: PON 4
+    type: gpon
+    enabled: true
+    mgmt_only: false
+    label: PON 4
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: PON 5
+    type: gpon
+    enabled: true
+    mgmt_only: false
+    label: PON 5
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: PON 6
+    type: gpon
+    enabled: true
+    mgmt_only: false
+    label: PON 6
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: PON 7
+    type: gpon
+    enabled: true
+    mgmt_only: false
+    label: PON 7
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: PON 8
+    type: gpon
+    enabled: true
+    mgmt_only: false
+    label: PON 8
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: SFP 1
+    type: 16gfc-sfpp
+    enabled: true
+    mgmt_only: false
+    label: SFP+ 1
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: SFP 2
+    type: 16gfc-sfpp
+    enabled: true
+    mgmt_only: false
+    label: SFP+ 2
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+module-bays:
+  - name: PON Port 1
+    label: ''
+    position: PON 1
+    description: ''
+  - name: PON Port 2
+    label: ''
+    position: PON 2
+    description: ''

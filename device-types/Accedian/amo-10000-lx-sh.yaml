@@ -1,0 +1,25 @@
+manufacturer: Accedian
+model: AMO-10000-LX-SH
+slug: amo-10000-lx-sh
+description: Accedian Skylight LX
+default_platform: null
+part_number: 501-172-02
+u_height: 1.0
+is_full_depth: false
+subdevice_role: null
+airflow: front-to-rear
+weight: null
+weight_unit: null
+comments: ''
+interfaces:
+  - name: Dry Contact
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: Dry Contact
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  # ...existing interfaces...

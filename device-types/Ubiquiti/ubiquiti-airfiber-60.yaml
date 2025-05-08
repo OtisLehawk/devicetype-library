@@ -1,0 +1,50 @@
+manufacturer: Ubiquiti
+model: airFiber 60
+slug: ubiquiti-airfiber-60
+description: ''
+default_platform: null
+part_number: AF-60
+u_height: 0.0
+is_full_depth: false
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: null
+comments: 'ubond0 is setup to use ieee802.11ax as LTE currently doesn''t allow wireless
+
+  parameters to be specified despite the fact that the airFiber is a LTE-U
+
+  device.
+
+  The eth0 and ubond0 are permanently bridged as this is a L2 bridge device.'
+interfaces:
+  - name: br0
+    type: bridge
+    enabled: true
+    mgmt_only: true
+    label: ''
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: eth0
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: Ethernet
+    description: ''
+    bridge: null
+    poe_mode: pd
+    poe_type: null
+    rf_role: null
+  - name: ubond0
+    type: ieee802.11ax
+    enabled: true
+    mgmt_only: false
+    label: Wireless
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null

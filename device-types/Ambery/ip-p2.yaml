@@ -1,0 +1,34 @@
+---
+manufacturer: Ambery
+model: IP P2
+slug: ip-p2
+description: ''
+default_platform: null
+part_number: ''
+u_height: 0.0
+is_full_depth: false
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: null
+comments: ''
+power-ports:
+  - name: Power Cord
+    type: nema-5-15p
+    maximum_draw: null
+    allocated_draw: null
+    label: ''
+    description: ''
+power-outlets:
+  - name: Power 1
+    type: nema-5-15r
+    power_port: null
+    feed_leg: null
+    label: P1
+    description: ''
+  - name: Power 2
+    type: nema-5-15r
+    power_port: null
+    feed_leg: null
+    label: P2
+    description: ''

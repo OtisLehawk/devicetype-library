@@ -1,0 +1,1888 @@
+---
+manufacturer: Tii
+model: 144 Port Fiber Distribution Panel
+slug: 144-port-fiber-distribution-panel
+description: ''
+default_platform: null
+part_number: ''
+u_height: 4.0
+is_full_depth: false
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: null
+comments: "Catalog:\r\nhttps://www.tiitech.com/FlippingBooks/Tii_Fiber_Catalog/16/"
+front-ports:
+- name: Port 1 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 1
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 2 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 2
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 3 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 3
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 4 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 4
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 5 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 5
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 6 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 6
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 7 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 7
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 8 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 8
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 9 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 9
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 10 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 10
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 11 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 11
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 12 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 12
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 13 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 13
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 14 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 14
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 15 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 15
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 16 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 16
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 17 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 17
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 18 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 18
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 19 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 19
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 20 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 20
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 21 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 21
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 22 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 22
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 23 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 23
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 24 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 24
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 25 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 25
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 26 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 26
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 27 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 27
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 28 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 28
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 29 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 29
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 30 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 30
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 31 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 31
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 32 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 32
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 33 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 33
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 34 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 34
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 35 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 35
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 36 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 36
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 37 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 37
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 38 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 38
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 39 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 39
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 40 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 40
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 41 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 41
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 42 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 42
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 43 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 43
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 44 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 44
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 45 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 45
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 46 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 46
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 47 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 47
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 48 In
+  type: lc-apc
+  color: 4caf50
+  rear_port: Port Out 48
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 49 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 49
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 50 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 50
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 51 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 51
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 52 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 52
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 53 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 53
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 54 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 54
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 55 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 55
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 56 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 56
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 57 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 57
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 58 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 58
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 59 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 59
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 60 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 60
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 61 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 61
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 62 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 62
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 63 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 63
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 64 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 64
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 65 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 65
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 66 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 66
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 67 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 67
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 68 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 68
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 69 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 69
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 70 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 70
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 71 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 71
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 72 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 72
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 73 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 73
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 74 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 74
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 75 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 75
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 76 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 76
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 77 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 77
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 78 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 78
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 79 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 79
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 80 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 80
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 81 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 81
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 82 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 82
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 83 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 83
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 84 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 84
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 85 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 85
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 86 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 86
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 87 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 87
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 88 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 88
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 89 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 89
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 90 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 90
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 91 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 91
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 92 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 92
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 93 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 93
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 94 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 94
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 95 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 95
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 96 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 96
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 97 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 97
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 98 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 98
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 99 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 99
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 100 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 100
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 101 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 101
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 102 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 102
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 103 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 103
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 104 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 104
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 105 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 105
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 106 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 106
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 107 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 107
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 108 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 108
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 109 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 109
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 110 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 110
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 111 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 111
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 112 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 112
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 113 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 113
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 114 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 114
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 115 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 115
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 116 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 116
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 117 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 117
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 118 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 118
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 119 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 119
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 120 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 120
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 121 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 121
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 122 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 122
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 123 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 123
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 124 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 124
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 125 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 125
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 126 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 126
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 127 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 127
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 128 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 128
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 129 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 129
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 130 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 130
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 131 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 131
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 132 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 132
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 133 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 133
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 134 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 134
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 135 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 135
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 136 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 136
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 137 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 137
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 138 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 138
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 139 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 139
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 140 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 140
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 141 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 141
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 142 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 142
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 143 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 143
+  rear_port_position: 1
+  label: ''
+  description: ''
+- name: Port 144 In
+  type: sc-apc
+  color: 4caf50
+  rear_port: Port Out 144
+  rear_port_position: 1
+  label: ''
+  description: ''
+rear-ports:
+- name: Port Out 1
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 2
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 3
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 4
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 5
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 6
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 7
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 8
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 9
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 10
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 11
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 12
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 13
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 14
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 15
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 16
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 17
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 18
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 19
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 20
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 21
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 22
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 23
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 24
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 25
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 26
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 27
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 28
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 29
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 30
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 31
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 32
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 33
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 34
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 35
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 36
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 37
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 38
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 39
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 40
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 41
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 42
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 43
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 44
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 45
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 46
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 47
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 48
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 49
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 50
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 51
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 52
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 53
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 54
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 55
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 56
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 57
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 58
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 59
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 60
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 61
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 62
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 63
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 64
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 65
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 66
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 67
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 68
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 69
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 70
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 71
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 72
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 73
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 74
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 75
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 76
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 77
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 78
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 79
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 80
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 81
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 82
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 83
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 84
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 85
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 86
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 87
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 88
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 89
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 90
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 91
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 92
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 93
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 94
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 95
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 96
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 97
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 98
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 99
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 100
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 101
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 102
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 103
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 104
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 105
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 106
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 107
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 108
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 109
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 110
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 111
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 112
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 113
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 114
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 115
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 116
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 117
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 118
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 119
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 120
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 121
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 122
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 123
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 124
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 125
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 126
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 127
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 128
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 129
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 130
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 131
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 132
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 133
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 134
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 135
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 136
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 137
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 138
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 139
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 140
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 141
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 142
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 143
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''
+- name: Port Out 144
+  type: sc-apc
+  color: ''
+  positions: 1
+  label: ''
+  description: ''

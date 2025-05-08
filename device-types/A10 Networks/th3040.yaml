@@ -1,0 +1,13 @@
+manufacturer: A10 Networks
+model: TH3040
+slug: th3040
+description: ''
+default_platform: null
+part_number: ''
+u_height: 1.0
+is_full_depth: true
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: ''
+comments: ''

@@ -1,0 +1,57 @@
+manufacturer: Unknown
+model: Cheap Power Strip - 6 Plug
+slug: cheap-power-strip-6-plug
+description: ''
+default_platform: null
+part_number: ''
+u_height: 0.0
+is_full_depth: false
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: null
+comments: ''
+power-ports:
+  - name: Cord
+    type: nema-5-15p
+    maximum_draw: null
+    allocated_draw: null
+    label: ''
+    description: ''
+power-outlets:
+  - name: Output 1
+    type: nema-5-15r
+    power_port: null
+    feed_leg: null
+    label: ''
+    description: ''
+  - name: Output 2
+    type: nema-5-15r
+    power_port: null
+    feed_leg: null
+    label: ''
+    description: ''
+  - name: Output 3
+    type: nema-5-15r
+    power_port: null
+    feed_leg: null
+    label: ''
+    description: ''
+  - name: Output 4
+    type: nema-5-15r
+    power_port: null
+    feed_leg: null
+    label: ''
+    description: ''
+  - name: Output 5
+    type: nema-5-15r
+    power_port: null
+    feed_leg: null
+    label: ''
+    description: ''
+  - name: Output 6
+    type: nema-5-15r
+    power_port: null
+    feed_leg: null
+    label: ''
+    description: ''

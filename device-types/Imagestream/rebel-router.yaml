@@ -1,0 +1,99 @@
+manufacturer: Imagestream
+model: Rebel Router
+slug: rebel-router
+description: Imagestream Rebel Router
+default_platform: null
+part_number: ''
+u_height: 1.0
+is_full_depth: false
+subdevice_role: null
+airflow: mixed
+weight: null
+weight_unit: null
+comments: ''
+console-ports:
+  - name: Console
+    type: rj-45
+    label: Console
+    description: ''
+power-ports:
+  - name: Power Port
+    type: iec-60320-c14
+    maximum_draw: null
+    allocated_draw: null
+    label: ''
+    description: ''
+power-outlets:
+  - name: USB 1
+    type: usb-a
+    power_port: null
+    feed_leg: null
+    label: USB 1
+    description: ''
+  - name: USB 2
+    type: usb-a
+    power_port: null
+    feed_leg: null
+    label: USB 2
+    description: ''
+interfaces:
+  - name: ETH 0
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: E0
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: ETH 1
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: E1
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: ETH 2
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: E2
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: ETH 3
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: E3
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: ETH 4
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: E4
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: ETH 5
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: E5
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null

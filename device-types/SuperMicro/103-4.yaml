@@ -1,0 +1,166 @@
+manufacturer: SuperMicro
+model: 103-4
+slug: 103-4
+description: Imagestream Router
+default_platform: null
+part_number: SYS-1019D-FRN5TP
+u_height: 1.0
+is_full_depth: false
+subdevice_role: null
+airflow: mixed
+weight: null
+weight_unit: null
+comments: ''
+console-ports:
+  - name: Console
+    type: rj-45
+    label: CONSOLE
+    description: ''
+  - name: Console (USB)
+    type: usb-micro-a
+    label: ''
+    description: ''
+power-ports:
+  - name: USB 3.0 1
+    type: usb-a
+    maximum_draw: null
+    allocated_draw: null
+    label: ''
+    description: ''
+  - name: USB 3.0 2
+    type: usb-a
+    maximum_draw: null
+    allocated_draw: null
+    label: ''
+    description: ''
+interfaces:
+  - name: 10GbE 1
+    type: 10gbase-t
+    enabled: true
+    mgmt_only: false
+    label: 10GbE 1
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: 10GbE 2
+    type: 10gbase-t
+    enabled: true
+    mgmt_only: false
+    label: 10GbE 2
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: ETH 1
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: '1'
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: ETH 2
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: '2'
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: ETH 3
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: '3'
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: ETH 4
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: '4'
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: ETH 5
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: '5'
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: ETH 6
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: '6'
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: ETH 7
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: '7'
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: ETH 8
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: '8'
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: Managment
+    type: 1000base-t
+    enabled: true
+    mgmt_only: true
+    label: MGMT
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: SFP +1
+    type: 10gbase-x-sfpp
+    enabled: true
+    mgmt_only: false
+    label: SFP +1
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: SFP +2
+    type: 10gbase-x-sfpp
+    enabled: true
+    mgmt_only: false
+    label: SFP +2
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null

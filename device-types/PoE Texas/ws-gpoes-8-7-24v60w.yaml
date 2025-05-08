@@ -1,0 +1,13 @@
+manufacturer: PoE Texas
+model: WS-GPOES-8-7-24v60w
+slug: ws-gpoes-8-7-24v60w
+description: 8 Port POE Switch
+default_platform: null
+part_number: ''
+u_height: 0.0
+is_full_depth: false
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: null
+comments: ''

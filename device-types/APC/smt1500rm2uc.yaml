@@ -1,0 +1,14 @@
+---
+manufacturer: APC
+model: SMT1500RM2UC
+slug: smt1500rm2uc
+description: APC Rack Mount UPS
+default_platform: null
+part_number: ''
+u_height: 2.0
+is_full_depth: true
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: null
+comments: ''

@@ -1,0 +1,46 @@
+manufacturer: Cyberpower
+model: 8 Port Networked Power Strip
+slug: 8-port-switched-network-power-strip
+description: CyberPower PDU41001 Switched PDU, 100-120V/15A (Derated to 12A), 8 Outlets,
+  1U Rackmount
+default_platform: null
+part_number: PDU41001
+u_height: 1.0
+is_full_depth: true
+subdevice_role: null
+airflow: null
+weight: 5.7
+weight_unit: lb
+comments: ''
+console-ports:
+  - name: Serial
+    type: rj-45
+    label: Serial
+    description: ''
+power-ports:
+  - name: Power Cord
+    type: nema-5-15p
+    maximum_draw: null
+    allocated_draw: null
+    label: ''
+    description: ''
+power-outlets:
+  - name: Outlet 1
+    type: nema-5-15r
+    power_port: null
+    feed_leg: null
+    label: '1'
+    description: ''
+  # ...existing power outlets...
+interfaces:
+  - name: Daisy Chain (Out)
+    type: other
+    enabled: true
+    mgmt_only: false
+    label: Out
+    description: RJ45 Used for chaining to next PDU
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  # ...existing interfaces...

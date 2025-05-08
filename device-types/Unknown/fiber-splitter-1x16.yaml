@@ -1,0 +1,118 @@
+manufacturer: Unknown
+model: Fiber Splitter 1x16
+slug: fiber-splitter-1x16
+description: 1 to 16 Fiber Splitter box
+default_platform: null
+part_number: 1*16 PLC 0.9mm SC/APC
+u_height: 0.0
+is_full_depth: false
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: null
+comments: ''
+front-ports:
+  - name: Fiber In
+    type: sc-apc
+    color: ffeb3b
+    rear_port: Fiber Out 1
+    rear_port_position: 1
+    label: IN
+    description: ''
+rear-ports:
+  - name: Fiber Out 1
+    type: sc-apc
+    color: ffeb3b
+    positions: 1
+    label: '1'
+    description: ''
+  - name: Fiber Out 2
+    type: sc-apc
+    color: ffeb3b
+    positions: 1
+    label: '2'
+    description: ''
+  - name: Fiber Out 3
+    type: sc-apc
+    color: ffeb3b
+    positions: 1
+    label: '3'
+    description: ''
+  - name: Fiber Out 4
+    type: sc-apc
+    color: ffeb3b
+    positions: 1
+    label: '4'
+    description: ''
+  - name: Fiber Out 5
+    type: sc-apc
+    color: ffeb3b
+    positions: 1
+    label: '5'
+    description: ''
+  - name: Fiber Out 6
+    type: sc-apc
+    color: ffeb3b
+    positions: 1
+    label: '6'
+    description: ''
+  - name: Fiber Out 7
+    type: sc-apc
+    color: ffeb3b
+    positions: 1
+    label: '7'
+    description: ''
+  - name: Fiber Out 8
+    type: sc-apc
+    color: ffeb3b
+    positions: 1
+    label: '8'
+    description: ''
+  - name: Fiber Out 9
+    type: sc-apc
+    color: ffeb3b
+    positions: 1
+    label: '9'
+    description: ''
+  - name: Fiber Out 10
+    type: sc-apc
+    color: ffeb3b
+    positions: 1
+    label: '10'
+    description: ''
+  - name: Fiber Out 11
+    type: sc-apc
+    color: ffeb3b
+    positions: 1
+    label: '11'
+    description: ''
+  - name: Fiber Out 12
+    type: sc-apc
+    color: ffeb3b
+    positions: 1
+    label: '12'
+    description: ''
+  - name: Fiber Out 13
+    type: sc-apc
+    color: ffeb3b
+    positions: 1
+    label: '13'
+    description: ''
+  - name: Fiber Out 14
+    type: sc-apc
+    color: ffeb3b
+    positions: 1
+    label: '14'
+    description: ''
+  - name: Fiber Out 15
+    type: sc-apc
+    color: ffeb3b
+    positions: 1
+    label: '15'
+    description: ''
+  - name: Fiber Out 16
+    type: sc-apc
+    color: ffeb3b
+    positions: 1
+    label: '16'
+    description: ''

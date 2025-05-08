@@ -1,0 +1,27 @@
+manufacturer: Tripp lite
+model: APS2424
+slug: aps2424
+description: ''
+default_platform: null
+part_number: ''
+u_height: 0.0
+is_full_depth: false
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: null
+comments: ''
+power-ports:
+  - name: Power INput
+    type: nema-5-15p
+    maximum_draw: null
+    allocated_draw: null
+    label: ''
+    description: ''
+power-outlets:
+  - name: Power Output
+    type: nema-5-15r
+    power_port: null
+    feed_leg: null
+    label: ''
+    description: ''

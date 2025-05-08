@@ -1,0 +1,64 @@
+manufacturer: Ubiquiti
+model: airFiber 11
+slug: airfiber-11
+description: 5 Ghz AP
+default_platform: null
+part_number: AF-11-H
+u_height: 0.0
+is_full_depth: false
+subdevice_role: parent
+airflow: null
+weight: null
+weight_unit: null
+comments: ''
+interfaces:
+  - name: Chain 0
+    type: other
+    enabled: true
+    mgmt_only: false
+    label: chain0
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: Chain 1
+    type: other
+    enabled: true
+    mgmt_only: false
+    label: chain1
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: Data
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: DATA
+    description: ''
+    bridge: null
+    poe_mode: pd
+    poe_type: null
+    rf_role: null
+  - name: Managment
+    type: 100base-tx
+    enabled: true
+    mgmt_only: false
+    label: MGMT
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: Wireless
+    type: other-wireless
+    enabled: true
+    mgmt_only: false
+    label: ''
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null

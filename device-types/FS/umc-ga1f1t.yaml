@@ -1,0 +1,34 @@
+manufacturer: FS
+model: Fiber Media Converter
+slug: umc-ga1f1t
+description: Mini Unmanaged 1x 10/100/1000Base-T RJ45 to 1x 1000Base-X SFP Slot Gigabit Ethernet Media Converter
+default_platform: null
+part_number: UMC-GA1F1T
+u_height: 1.0
+is_full_depth: false
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: null
+comments: ''
+interfaces:
+  - name: Ethernet
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: ''
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: SFP
+    type: 1000base-x-sfp
+    enabled: true
+    mgmt_only: false
+    label: ''
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null

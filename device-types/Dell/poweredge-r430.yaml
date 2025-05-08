@@ -1,0 +1,86 @@
+manufacturer: Dell
+model: PowerEdge R430
+slug: dell-poweredge-r430
+description: ''
+default_platform: null
+part_number: ''
+u_height: 1.0
+is_full_depth: true
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: null
+comments: ''
+console-ports:
+  - name: Serial
+    type: de-9
+    label: ''
+    description: ''
+  - name: VGA
+    type: other
+    label: ''
+    description: ''
+power-ports:
+  - name: Power 1
+    type: iec-60320-c14
+    maximum_draw: null
+    allocated_draw: null
+    label: ''
+    description: ''
+  - name: Power 2
+    type: iec-60320-c14
+    maximum_draw: null
+    allocated_draw: null
+    label: ''
+    description: ''
+interfaces:
+  - name: Gig-E 1
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: ''
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: Gig-E 2
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: ''
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: Gig-E 3
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: ''
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: Gig-E 4
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: ''
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: iDRAC
+    type: 1000base-t
+    enabled: true
+    mgmt_only: true
+    label: ''
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null

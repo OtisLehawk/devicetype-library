@@ -1,0 +1,111 @@
+manufacturer: Motorola
+model: CMM 3
+slug: cmm-3
+description: ''
+default_platform: null
+part_number: ''
+u_height: 0.0
+is_full_depth: false
+subdevice_role: null
+airflow: passive
+weight: null
+weight_unit: null
+comments: ''
+power-ports:
+  - name: Power
+    type: dc-terminal
+    maximum_draw: null
+    allocated_draw: null
+    label: ''
+    description: ''
+interfaces:
+  - name: Ethernet Port 1
+    type: 100base-tx
+    enabled: true
+    mgmt_only: false
+    label: Ethernet Port 1
+    description: ''
+    bridge: null
+    poe_mode: pse
+    poe_type: null
+    rf_role: null
+  - name: Ethernet Port 2
+    type: 100base-tx
+    enabled: true
+    mgmt_only: false
+    label: Ethernet Port 2
+    description: ''
+    bridge: null
+    poe_mode: pse
+    poe_type: null
+    rf_role: null
+  - name: Ethernet Port 3
+    type: 100base-tx
+    enabled: true
+    mgmt_only: false
+    label: Ethernet Port 3
+    description: ''
+    bridge: null
+    poe_mode: pse
+    poe_type: null
+    rf_role: null
+  - name: Ethernet Port 4
+    type: 100base-tx
+    enabled: true
+    mgmt_only: false
+    label: Ethernet Port 4
+    description: ''
+    bridge: null
+    poe_mode: pse
+    poe_type: null
+    rf_role: null
+  - name: Ethernet Port 5
+    type: 100base-tx
+    enabled: true
+    mgmt_only: false
+    label: Ethernet Port 5
+    description: ''
+    bridge: null
+    poe_mode: pse
+    poe_type: null
+    rf_role: null
+  - name: Ethernet Port 6
+    type: 100base-tx
+    enabled: true
+    mgmt_only: false
+    label: Ethernet Port 6
+    description: ''
+    bridge: null
+    poe_mode: pse
+    poe_type: null
+    rf_role: null
+  - name: Ethernet Port 7
+    type: 100base-tx
+    enabled: true
+    mgmt_only: false
+    label: Ethernet Port 7
+    description: ''
+    bridge: null
+    poe_mode: pse
+    poe_type: null
+    rf_role: null
+  - name: Ethernet Port 8
+    type: 100base-tx
+    enabled: true
+    mgmt_only: false
+    label: Ethernet Port 8
+    description: ''
+    bridge: null
+    poe_mode: pse
+    poe_type: null
+    rf_role: null
+  - name: Timing Port
+    type: other
+    enabled: true
+    mgmt_only: false
+    label: TIMING PULSE
+    description: RJ12 Port
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null

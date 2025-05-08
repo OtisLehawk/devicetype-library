@@ -1,0 +1,28 @@
+manufacturer: Cyberpower
+model: 550VA
+slug: 550va
+description: ''
+default_platform: null
+part_number: ''
+u_height: 0.0
+is_full_depth: false
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: null
+comments: ''
+power-ports:
+  - name: Power Cord
+    type: nema-5-15p
+    maximum_draw: null
+    allocated_draw: null
+    label: ''
+    description: ''
+power-outlets:
+  - name: Battery Outlets 1
+    type: nema-5-15r
+    power_port: null
+    feed_leg: null
+    label: Battery 1
+    description: ''
+  # ...existing power outlets...

@@ -1,0 +1,13 @@
+manufacturer: Ubiquiti
+model: Wave PoE Adapter
+slug: wave-poe-adapter
+description: A Ubiquiti Power adapter for a 60 GHz Wave AP
+default_platform: null
+part_number: POE-48-30W-2G-WH
+u_height: 0.0
+is_full_depth: false
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: null
+comments: ''

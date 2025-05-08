@@ -1,0 +1,41 @@
+manufacturer: Mikrotik
+model: PoE injector RBGPOE
+slug: rbgpoe
+description: ''
+default_platform: null
+part_number: RBGPOE
+u_height: 0.0
+is_full_depth: false
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: null
+comments: ''
+power-ports:
+  - name: Power Input
+    type: dc-terminal
+    maximum_draw: null
+    allocated_draw: null
+    label: ''
+    description: 18-57V input 2 Amp
+interfaces:
+  - name: Ethernet
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: Data
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: POE Out
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: POE Out
+    description: ''
+    bridge: null
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+    rf_role: null

@@ -1,0 +1,55 @@
+manufacturer: Total Cable Solutions
+model: Hyper Drop MST 4 Port
+slug: hyper-drop-mst
+description: 4 Port MST SC/APC H Connectors compatible with Omnitaps. Singlemode G657A1
+  BIF Outdoor, Flat 50ft Pigtail
+default_platform: null
+part_number: HDMST-044FA-050F
+u_height: 0.0
+is_full_depth: false
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: null
+comments: ''
+interfaces:
+  - name: Port 1
+    type: other
+    enabled: true
+    mgmt_only: false
+    label: Port 1
+    description: SC/APC H Connector
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: Port 2
+    type: other
+    enabled: true
+    mgmt_only: false
+    label: Port 2
+    description: SC/APC H Connector
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: Port 3
+    type: other
+    enabled: true
+    mgmt_only: false
+    label: Port 3
+    description: SC/APC H Connector
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: Port 4
+    type: other
+    enabled: true
+    mgmt_only: false
+    label: Port 4
+    description: SC/APC H Connector
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null

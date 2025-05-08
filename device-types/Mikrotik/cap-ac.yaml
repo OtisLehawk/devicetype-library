@@ -1,0 +1,54 @@
+manufacturer: Mikrotik
+model: cAP ac
+slug: cap-ac
+description: ''
+default_platform: null
+part_number: RBcAPGi-5acD2nD
+u_height: 0.0
+is_full_depth: false
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: null
+comments: ''
+interfaces:
+  - name: ETH1
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: ETH1 PoE in
+    description: ''
+    bridge: null
+    poe_mode: pd
+    poe_type: null
+    rf_role: null
+  - name: ETH2
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: ETH 2 PoE out
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: wifi1
+    type: ieee802.11ac
+    enabled: true
+    mgmt_only: false
+    label: ''
+    description: 5ghz
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: wifi2
+    type: ieee802.11n
+    enabled: true
+    mgmt_only: false
+    label: ''
+    description: 2.4ghz
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null

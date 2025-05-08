@@ -1,0 +1,41 @@
+manufacturer: Ubiquiti
+model: GP-H240-100G
+slug: poe-24-24w-g-wh
+description: Ubiquiti PoE 24V 1A Injector
+default_platform: null
+part_number: POE-24-24W-G-WH
+u_height: 0.0
+is_full_depth: false
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: null
+comments: ''
+power-ports:
+  - name: Power Port
+    type: iec-60320-c6
+    maximum_draw: null
+    allocated_draw: null
+    label: ''
+    description: ''
+interfaces:
+  - name: LAN
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: ''
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: POE
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: ''
+    description: ''
+    bridge: null
+    poe_mode: pse
+    poe_type: passive-24v-4pair
+    rf_role: null

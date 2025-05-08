@@ -1,0 +1,75 @@
+manufacturer: Ubiquiti
+model: UniFi Dream Machine
+slug: ubiquiti-udm
+description: ''
+default_platform: null
+part_number: UDM
+u_height: 0.0
+is_full_depth: false
+subdevice_role: null
+airflow: passive
+weight: null
+weight_unit: null
+comments: '[UniFi Dream Machine](https://store.ui.com/collections/unifi-network-unifi-os-consoles/products/udm-us)
+
+  SOHO Security Gateway and Network Appliance (4) 1G LAN, (1) 1G WAN
+
+  Dimensions: 110 x 184.2 mm (4.33 x 7.25")'
+power-ports:
+  - name: Supply
+    type: iec-60320-c8
+    maximum_draw: 26
+    allocated_draw: null
+    label: ''
+    description: 100-240VAC/50-60 Hz
+interfaces:
+  - name: port.1
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: Port 1 - LAN
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: port.2
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: Port 2 - LAN
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: port.3
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: Port 3 - LAN
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: port.4
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: Port 4 - LAN
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
+  - name: port.5
+    type: 1000base-t
+    enabled: true
+    mgmt_only: false
+    label: Port 5 - WAN
+    description: ''
+    bridge: null
+    poe_mode: null
+    poe_type: null
+    rf_role: null
