@@ -1,0 +1,633 @@
+---
+manufacturer: Cisco
+model: NCS-57C3-MOD-SYS
+slug: cisco-NCS-57C3-MOD-SYS
+description: ''
+default_platform: null
+part_number: NCS-57C3-MOD-SYS
+u_height: 3.0
+is_full_depth: false
+subdevice_role: null
+airflow: null
+weight: null
+weight_unit: ''
+comments: ''
+console-ports:
+- name: Console
+  type: rj-45
+  label: TOD
+  description: ''
+interfaces:
+- name: MgmtEth0/RP0/CPU0/0
+  type: 1000base-t
+  enabled: true
+  mgmt_only: true
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: ''
+  poe_type: ''
+  rf_role: ''
+- name: SFP 0
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP 1
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP 2
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP 3
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP 4
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP 5
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP 6
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP 7
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP 8
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP 9
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP 10
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP 11
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP 12
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP 13
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP 14
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP 15
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP 16
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP 17
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP 18
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP 19
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP 20
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP 21
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP 22
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP 23
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP 32
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP 33
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP 34
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP 35
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP 36
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP 37
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP 38
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP 39
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP 40
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP 41
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP 42
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP 43
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP 44
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP 45
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP 46
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP 47
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP 48
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP 49
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP 50
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP 51
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP 52
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP 53
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: SFP 54
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: XFP 24
+  type: 10gbase-x-xfp
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: XFP 25
+  type: 10gbase-x-xfp
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: XFP 26
+  type: 10gbase-x-xfp
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: XFP 27
+  type: 10gbase-x-xfp
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: XFP 28
+  type: 10gbase-x-xfp
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: XFP 29
+  type: 10gbase-x-xfp
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: XFP 30
+  type: 10gbase-x-xfp
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+- name: XFP 31
+  type: 10gbase-x-xfp
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: null
+  poe_type: null
+  rf_role: null
+module-bays:
+- name: Fan Tray0
+  label: ''
+  position: 0/FT0
+  description: Fan tray
+- name: Fan Tray1
+  label: ''
+  position: 0/FT1
+  description: Fan tray
+- name: Fan Tray2
+  label: ''
+  position: 0/FT2
+  description: Fan tray
+- name: Fan Tray3
+  label: ''
+  position: 0/FT3
+  description: Fan tray
+- name: Fan Tray4
+  label: ''
+  position: 0/FT4
+  description: Fan tray
+- name: Fan Tray5
+  label: ''
+  position: 0/FT5
+  description: Fan tray
+- name: Module Bay1
+  label: ''
+  position: 0/MPA1
+  description: ''
+- name: Module Bay2
+  label: ''
+  position: 0/MPA2
+  description: ''
+- name: Module Bay3
+  label: ''
+  position: 0/MPA3
+  description: ''
+- name: Processor Bay 1
+  label: ''
+  position: 0/RPB1
+  description: ''
+- name: Processor Bay 2
+  label: ''
+  position: 0/RPB2
+  description: ''
+- name: PSU0
+  label: ''
+  position: 0/PM0
+  description: Power module
+- name: PSU1
+  label: ''
+  position: 0/PM1
+  description: Power module
